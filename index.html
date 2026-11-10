@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Schubladendenken Radar</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .card { transition: all 0.2s ease; }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 10px 25px -5px rgb(0 0 0 / 0.1); }
+    .category-badge { font-size: 0.7rem; letter-spacing: 0.025em; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-10">
+    <div class="max-w-6xl mx-auto px-4 py-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+      <div>
+        <h1 class="text-2xl font-bold tracking-tight text-slate-900">Schubladendenken Radar</h1>
+        <p class="text-sm text-slate-500 mt-0.5">Insights, ideas & best practices from X · English only · Updated every 24 hours</p>
+      </div>
+      <div class="flex items-center gap-3 text-xs text-slate-400">
+        <span id="last-updated">Seeded Nov 10, 2026</span>
+        <span class="hidden sm:inline">·</span>
+        <span>X only</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-4 py-8">
+    <!-- Filters & Search -->
+    <div class="flex flex-col sm:flex-row gap-4 mb-8">
+      <div class="flex flex-wrap gap-2" id="filters">
+        <button data-filter="all" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-slate-900 text-white">All</button>
+        <button data-filter="Insight" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">Insights</button>
+        <button data-filter="Best Practice" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">Best Practices</button>
+        <button data-filter="Idea" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">Ideas</button>
+        <button data-filter="Feature Request" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">Feature Requests</button>
+        <button data-filter="Complaint" class="filter-btn px-3 py-1.5 rounded-full text-sm font-medium bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">Complaints</button>
+      </div>
+      <div class="relative flex-1 max-w-xs">
+        <input id="search" type="text" placeholder="Search signals…" class="w-full pl-9 pr-4 py-2 text-sm border border-slate-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-slate-300" />
+        <i class="fa-solid fa-magnifying-glass absolute left-3 top-2.5 text-slate-400 text-sm"></i>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8 text-center">
+      <div class="bg-white rounded-xl p-4 border border-slate-100">
+        <div class="text-2xl font-semibold text-slate-900" id="stat-total">0</div>
+        <div class="text-xs text-slate-500">Signals</div>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-slate-100">
+        <div class="text-2xl font-semibold text-amber-600" id="stat-insights">0</div>
+        <div class="text-xs text-slate-500">Insights</div>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-slate-100">
+        <div class="text-2xl font-semibold text-emerald-600" id="stat-practices">0</div>
+        <div class="text-xs text-slate-500">Best Practices</div>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-slate-100">
+        <div class="text-2xl font-semibold text-blue-600" id="stat-ideas">0</div>
+        <div class="text-xs text-slate-500">Ideas & Requests</div>
+      </div>
+    </div>
+
+    <!-- Board -->
+    <div id="board" class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      <!-- Cards injected here -->
+    </div>
+
+    <div id="empty" class="hidden text-center py-16 text-slate-400">
+      <i class="fa-regular fa-folder-open text-4xl mb-3"></i>
+      <p>No signals match your filters.</p>
+    </div>
+  </main>
+
+  <footer class="border-t border-slate-200 mt-16 py-8 text-center text-xs text-slate-400">
+    Content sourced exclusively from public posts on X. No user submissions in this version.<br>
+    Schubladendenken Radar · English only · First version
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

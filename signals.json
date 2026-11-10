@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "category": "Insight",
+    "title": "Airbnb host claims fabricated damages and issues threat at checkout",
+    "excerpt": "Booked an Airbnb in Miami for a girls' weekend. At checkout the host demanded an additional $600, claiming we damaged a designer mirror, stained the couch, and broke a coffee machine — none of which we touched. When asked for proof, the host replied: “You can leave, but I know where you work.” Immediately contacted Airbnb support and started recording everything.",
+    "author": "@ailyashley",
+    "date": "2026-11-09",
+    "url": "https://x.com/ailyashley/status/2119686535939334284",
+    "engagement": 24,
+    "tags": ["Airbnb", "checkout", "fake damage", "threat", "deposit"]
+  },
+  {
+    "id": "2",
+    "category": "Insight",
+    "title": "BnB guests steal towels, iron, hair dryer and more after late checkout",
+    "excerpt": "Couple booked 2 nights, asked for extra towels (gave 6) and late checkout. Checked out at 4pm with no message. Walked in to find 12 towels gone, shower curtain, hair dryer, TV remote, and the iron missing. Host stopped trusting guests after this.",
+    "author": "@liamcoderx",
+    "date": "2026-11-09",
+    "url": "https://x.com/liamcoderx/status/2119900297078452586",
+    "engagement": 73,
+    "tags": ["BnB", "theft", "missing items", "checkout"]
+  },
+  {
+    "id": "3",
+    "category": "Best Practice",
+    "title": "47 videos of empty apartment on move-out day saved the full deposit",
+    "excerpt": "Property manager tried to keep $2,400 deposit for wall damage, broken cabinet, stained carpet. Tenant had 47 videos from the day of move-out showing clean walls, undamaged cabinets, spotless carpet, with date and time visible. Videos proved the inspection claims false.",
+    "author": "@blairvic02",
+    "date": "2026-08-21",
+    "url": "https://x.com/blairvic02/status/2090742311957180544",
+    "engagement": 625,
+    "tags": ["video evidence", "deposit", "move-out", "documentation"]
+  },
+  {
+    "id": "4",
+    "category": "Insight",
+    "title": "Signed move-in checklist from 3 years earlier defeated carpet charge",
+    "excerpt": "Landlord tried to charge for worn carpet. Tenant pointed to the original move-in checklist both signed, noting the carpet was already worn with stains and frayed. Receipt in the closet showed it was 11 years old. Full $850 returned. Lesson: most people don't keep the paperwork.",
+    "author": "@empress_md",
+    "date": "2026-11-10",
+    "url": "https://x.com/empress_md/status/2119943140249375066",
+    "engagement": 16,
+    "tags": ["checklist", "pre-existing damage", "deposit", "documentation"]
+  },
+  {
+    "id": "5",
+    "category": "Feature Request",
+    "title": "Need a simple tool for timestamped photos that both sides sign off on",
+    "excerpt": "Taking photos before moving in shouldn't feel like preparing for a fight. A small scratch today becomes a big disagreement 12 months later. Building MoveProof: timestamped photos, move-in/move-out records, both parties sign off, easy comparison of what changed.",
+    "author": "@MalikSarran",
+    "date": "2026-11-04",
+    "url": "https://x.com/MalikSarran/status/2118028022108336287",
+    "engagement": 1,
+    "tags": ["tool request", "timestamped photos", "inventory", "PropTech"]
+  },
+  {
+    "id": "6",
+    "category": "Best Practice",
+    "title": "Document scratches immediately with photo, date, and signed handover protocol",
+    "excerpt": "Kratzer im Parkett beim Einzug? Foto, Datum, Übergabeprotokoll, beide unterschreiben. So gibt es keinen Streit um die Kaution. (Scratches in the parquet on move-in? Photo, date, handover protocol, both sign. No dispute over the deposit.)",
+    "author": "@tenancede",
+    "date": "2026-11-05",
+    "url": "https://x.com/tenancede/status/2118408072565596190",
+    "engagement": 0,
+    "tags": ["Übergabeprotokoll", "Germany", "photos", "best practice"]
+  },
+  {
+    "id": "7",
+    "category": "Insight",
+    "title": "No proper handover after lease end led to absurd later demands",
+    "excerpt": "After ending the lease, no Wohnungsübergabe or protocol happened. Weeks later the landlord demanded painting all walls neutral, removing a half-wall that was never built by the tenant, etc., and tried to use the deposit. Communication had previously confirmed clean handover of responsibility to new tenants.",
+    "author": "@behindsyntax",
+    "date": "2026-09-24",
+    "url": "https://x.com/behindsyntax/status/2103035028976357673",
+    "engagement": 19,
+    "tags": ["Germany", "handover", "protocol missing", "dispute"]
+  },
+  {
+    "id": "8",
+    "category": "Best Practice",
+    "title": "Take arrival and departure photos with timestamp app for every Airbnb",
+    "excerpt": "If you use AirBnBs, take photos when you first arrive, and take photos right before you leave using the Timestamp App. It stamps the time, date, and location on the photo. Provide YOUR OWN proof of how the place looked before & after.",
+    "author": "@Clear_Destiny_",
+    "date": "2026-06-29",
+    "url": "https://x.com/Clear_Destiny_/status/2071643991980834878",
+    "engagement": 332,
+    "tags": ["Airbnb", "timestamp", "photos", "guest protection"]
+  },
+  {
+    "id": "9",
+    "category": "Idea",
+    "title": "Organize move-in photos so you can actually find them a year later",
+    "excerpt": "Taking move-in photos is easy. Finding the right one a year later is another story. Photos end up mixed with everything else in the camera roll. When someone questions a scratch, you're scrolling through hundreds of photos. Need better organization, dated, and easy to retrieve.",
+    "author": "@MalikSarran",
+    "date": "2026-11-06",
+    "url": "https://x.com/MalikSarran/status/2118690000472567851",
+    "engagement": 1,
+    "tags": ["photo organization", "tool idea", "documentation"]
+  },
+  {
+    "id": "10",
+    "category": "Insight",
+    "title": "Landlord charged for damage that happened after keys were returned",
+    "excerpt": "Landlord withheld deposit for broken cabinet, holes in wall, stained carpet. Tenant had morning-of-move-out photos showing perfect condition. Inspection happened three days later after maintenance and the next tenant had access. Damage occurred after handover.",
+    "author": "@beemuhamma",
+    "date": "2026-11-05",
+    "url": "https://x.com/beemuhamma/status/2118362937563713752",
+    "engagement": 441,
+    "tags": ["timing of inspection", "deposit", "evidence"]
+  },
+  {
+    "id": "11",
+    "category": "Best Practice",
+    "title": "Always take full video walkthrough and email it to yourself before handing keys",
+    "excerpt": "When someone says “Take pictures when you move out,” reply “Take video.” Show every wall, every cabinet, every appliance. Record the date and time. Email the footage to yourself before handing over the keys. Memory is an argument. Documentation is evidence.",
+    "author": "@blairvic02",
+    "date": "2026-08-21",
+    "url": "https://x.com/blairvic02/status/2090742348988748109",
+    "engagement": 208,
+    "tags": ["video", "email evidence", "move-out", "best practice"]
+  },
+  {
+    "id": "12",
+    "category": "Complaint",
+    "title": "Airbnb policy changes removing ability to collect ID and signed agreements",
+    "excerpt": "Local vacation rental operators raising alarm that new Airbnb rules prevent requiring separate signed rental agreements, government-issued guest ID, or retaining direct contact details. Creates problems for emergency contact, law enforcement removal of guests, and property protection.",
+    "author": "@GulfShoresNews",
+    "date": "2026-11-10",
+    "url": "https://x.com/GulfShoresNews/status/2120131022071136582",
+    "engagement": 0,
+    "tags": ["Airbnb policy", "ID verification", "safety", "hosts"]
+  }
+]
