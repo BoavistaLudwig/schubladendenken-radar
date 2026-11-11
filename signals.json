@@ -1,5 +1,22 @@
 [
   {
+    "id": "2120420763647787039",
+    "category": "Complaint",
+    "title": "Host's AirCover payout for guest vandalism stuck for 20 days",
+    "excerpt": "An Airbnb host says a guest vandalized the property and is now threatening to sue inside the app unless she deletes her honest review. She says Airbnb has not responded in 20 days and her AirCover funds are stuck.",
+    "author": "@jnntomczyk07",
+    "date": "2026-11-11",
+    "url": "https://x.com/jnntomczyk07/status/2120420763647787039",
+    "engagement": 0,
+    "tags": [
+      "damage",
+      "aircover",
+      "dispute",
+      "host",
+      "short-term rental"
+    ]
+  },
+  {
     "id": "2120083718412902810",
     "category": "Idea",
     "title": "Use photo file timestamps to tell pre-existing damage from new claims",
@@ -61,6 +78,56 @@
       "ID verification",
       "safety",
       "hosts"
+    ]
+  },
+  {
+    "id": "2120253529310855633",
+    "category": "Complaint",
+    "title": "Holiday home left trashed at checkout, and the host says it's not a one-off",
+    "excerpt": "A post shares a video of an Airbnb host finding a holiday home full of empty cans and plates of leftover food after checkout, with the host saying it happens repeatedly. The poster says not knowing what damage you'll come back to is what keeps them from renting out on Airbnb.",
+    "author": "@benonwine",
+    "date": "2026-11-10",
+    "url": "https://x.com/benonwine/status/2120253529310855633",
+    "engagement": 44,
+    "tags": [
+      "checkout",
+      "damage",
+      "host",
+      "short-term rental"
+    ]
+  },
+  {
+    "id": "2120183773895540828",
+    "category": "Insight",
+    "title": "$3,800 move-out bill for pre-existing damage withdrawn after escalating with the inspection report",
+    "excerpt": "Two days after move-out, a tenant was billed $3,800 for floors, a tile and a countertop (full replacement over one scratch), though most damage predated move-in and she had emailed move-in photos. The property manager ignored them, but forwarding the original inspection report to the regional manager got the whole charge withdrawn and the $2,400 deposit returned.",
+    "author": "@Vianney424",
+    "date": "2026-11-10",
+    "url": "https://x.com/Vianney424/status/2120183773895540828",
+    "engagement": 46,
+    "tags": [
+      "move-out",
+      "deposit",
+      "evidence",
+      "inspection",
+      "pre-existing damage"
+    ]
+  },
+  {
+    "id": "2120156106139881595",
+    "category": "Best Practice",
+    "title": "Japan's official move-out guideline puts normal wear and tear on the landlord",
+    "excerpt": "A post explains Japan's MLIT genjo kaifuku guideline: sun-faded wallpaper, furniture dents and the mark behind the fridge are generally the landlord's cost, while tenant-caused damage is the tenant's, subject to special lease terms. It advises taking dated photos of every room on move-in day as the simplest evidence.",
+    "author": "@yhgj2019",
+    "date": "2026-11-10",
+    "url": "https://x.com/yhgj2019/status/2120156106139881595",
+    "engagement": 0,
+    "tags": [
+      "wear and tear",
+      "move-out",
+      "evidence",
+      "japan",
+      "regulation"
     ]
   },
   {
