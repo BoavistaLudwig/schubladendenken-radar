@@ -1,5 +1,73 @@
 [
   {
+    "id": "2120680961801334996",
+    "category": "Complaint",
+    "title": "Landlord ghosts roommates on deposit return 2.5 months after move-out",
+    "excerpt": "A Ridgewood, NYC tenant says his landlord hasn't returned the roommates' security deposit or answered calls and emails 2.5 months after they moved out. He filed a complaint with the state Attorney General but feels powerless.",
+    "author": "@bobby_housel",
+    "date": "2026-11-12",
+    "url": "https://x.com/bobby_housel/status/2120680961801334996",
+    "engagement": 3,
+    "tags": [
+      "deposit",
+      "move-out",
+      "tenant",
+      "new york",
+      "dispute"
+    ]
+  },
+  {
+    "id": "2120780994529910883",
+    "category": "Complaint",
+    "title": "Host files formal dispute after three AirCover claim denials",
+    "excerpt": "An Airbnb host says their AirCover damage claim was denied three times with inconsistent explanations and disputed findings, including an allegation of pre-existing damage, and is now filing a formal dispute.",
+    "author": "@shessoholistic",
+    "date": "2026-11-12",
+    "url": "https://x.com/shessoholistic/status/2120780994529910883",
+    "engagement": 0,
+    "tags": [
+      "aircover",
+      "damage claim",
+      "host",
+      "airbnb",
+      "pre-existing damage"
+    ]
+  },
+  {
+    "id": "2120752185847775621",
+    "category": "Best Practice",
+    "title": "A turnover is done only when photos, supplies, damage notes, and check-in are confirmed",
+    "excerpt": "A turnover checklist says cleaning isn't finished until room photos are in the shared thread, low supplies are flagged, any damage is noted with a timestamp, and the next check-in time is confirmed.",
+    "author": "@OpsFrameworksHQ",
+    "date": "2026-11-12",
+    "url": "https://x.com/OpsFrameworksHQ/status/2120752185847775621",
+    "engagement": 1,
+    "tags": [
+      "turnover",
+      "checklist",
+      "photos",
+      "damage",
+      "cleaners"
+    ]
+  },
+  {
+    "id": "2120676700266860973",
+    "category": "Insight",
+    "title": "Alberta requires a move-out inspection report and sets rules for doing it without the tenant",
+    "excerpt": "In Alberta a move-out inspection report is required. A landlord doing it without the tenant must first offer two times on different days between 8 am and 8 pm, not on holidays, and with no deductions the full deposit plus interest is due within 10 days.",
+    "author": "@brocktokar",
+    "date": "2026-11-12",
+    "url": "https://x.com/brocktokar/status/2120676700266860973",
+    "engagement": 0,
+    "tags": [
+      "move-out",
+      "inspection report",
+      "canada",
+      "deposit",
+      "regulation"
+    ]
+  },
+  {
     "id": "2120420763647787039",
     "category": "Complaint",
     "title": "Host's AirCover payout for guest vandalism stuck for 20 days",
@@ -14,6 +82,125 @@
       "dispute",
       "host",
       "short-term rental"
+    ]
+  },
+  {
+    "id": "2120617580180521447",
+    "category": "Complaint",
+    "title": "Tenant says landlord is keeping $900 deposit after a spotless move-out",
+    "excerpt": "A tenant posted that her landlord explained why she is keeping the full $900 security deposit even though the apartment was left spotless. Hundreds of replies pointed out that normal wear and tear and routine repainting can't be deducted and asked whether she had move-out photos or an inspection report.",
+    "author": "@_sorrengailll",
+    "date": "2026-11-11",
+    "url": "https://x.com/_sorrengailll/status/2120617580180521447",
+    "engagement": 2749,
+    "tags": [
+      "deposit",
+      "move-out",
+      "wear and tear",
+      "tenant",
+      "dispute"
+    ]
+  },
+  {
+    "id": "2120595567688499496",
+    "category": "Complaint",
+    "title": "Guest says $20,000 of gear stolen in Airbnb break-in with a master key",
+    "excerpt": "A guest says an intruder used a master key to enter the Airbnb while they slept and stole over $20,000 of gear plus personal information, and that neither the host nor Airbnb is treating it as their liability.",
+    "author": "@islamoon98",
+    "date": "2026-11-11",
+    "url": "https://x.com/islamoon98/status/2120595567688499496",
+    "engagement": 667,
+    "tags": [
+      "airbnb",
+      "guest",
+      "theft",
+      "missing items",
+      "liability"
+    ]
+  },
+  {
+    "id": "2120631035721617746",
+    "category": "Complaint",
+    "title": "Guests push back on fees, deposits, and a 14-step checkout routine",
+    "excerpt": "A guest complains that Airbnb hosts now stack hotel-level prices, cleaning and service fees, a security deposit, and a 14-step checkout routine on top of each other.",
+    "author": "@Omgemeraldddd",
+    "date": "2026-11-11",
+    "url": "https://x.com/Omgemeraldddd/status/2120631035721617746",
+    "engagement": 19,
+    "tags": [
+      "airbnb",
+      "checkout",
+      "guest",
+      "fees",
+      "deposit"
+    ]
+  },
+  {
+    "id": "2120432172460920859",
+    "category": "Best Practice",
+    "title": "700-home operator inspects with photos after every checkout",
+    "excerpt": "An operator running 700+ holiday homes in Dubai says short-term renting still works with two conditions: vet every guest before confirming the booking, and inspect the home with photos after every checkout so damage is claimed straight away.",
+    "author": "@luissantosco",
+    "date": "2026-11-11",
+    "url": "https://x.com/luissantosco/status/2120432172460920859",
+    "engagement": 1,
+    "tags": [
+      "short-term rental",
+      "checkout",
+      "inspection",
+      "photos",
+      "damage claim"
+    ]
+  },
+  {
+    "id": "2120352416436572483",
+    "category": "Best Practice",
+    "title": "Answer an Airbnb damage claim item by item within 24 hours",
+    "excerpt": "Guests facing an Airbnb damage claim have 24 hours to respond to the host's request. The advice is to answer item by item, admit only what's true, attach arrival and checkout photos, and save any appeal notice because declining doesn't end the claim.",
+    "author": "@renterscourt",
+    "date": "2026-11-11",
+    "url": "https://x.com/renterscourt/status/2120352416436572483",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "guest",
+      "evidence",
+      "photos"
+    ]
+  },
+  {
+    "id": "2120577577777811615",
+    "category": "Best Practice",
+    "title": "A forwarded receipt is not an itemized list of deposit deductions",
+    "excerpt": "An attorney notes that a forwarded receipt isn't the itemized list of deductions most US states require landlords to send by a deadline. Tenants should bring move-out photos and the texts showing the landlord accepted the keys.",
+    "author": "@thejtstevenson",
+    "date": "2026-11-11",
+    "url": "https://x.com/thejtstevenson/status/2120577577777811615",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "itemized deductions",
+      "evidence",
+      "handover",
+      "legal"
+    ]
+  },
+  {
+    "id": "2120598691434430708",
+    "category": "Feature Request",
+    "title": "Host wants damage claims scored against photos before the cleaner leaves",
+    "excerpt": "A host says they still stare at checkout photos trying to see what changed, and wants a tool that scores a possible damage claim against photos with a confidence score before the cleaner leaves.",
+    "author": "@harden_369741",
+    "date": "2026-11-11",
+    "url": "https://x.com/harden_369741/status/2120598691434430708",
+    "engagement": 0,
+    "tags": [
+      "feature request",
+      "checkout photos",
+      "damage claim",
+      "ai",
+      "host"
     ]
   },
   {
@@ -128,6 +315,40 @@
       "evidence",
       "japan",
       "regulation"
+    ]
+  },
+  {
+    "id": "2120169910860988779",
+    "category": "Insight",
+    "title": "Damage found before check-in is two separate jobs",
+    "excerpt": "Damage discovered before a guest arrives creates two jobs on different clocks: fixing it for the arriving guest and filing the claim with the booking platform, so they should be handled separately.",
+    "author": "@TablaHQ",
+    "date": "2026-11-10",
+    "url": "https://x.com/TablaHQ/status/2120169910860988779",
+    "engagement": 0,
+    "tags": [
+      "damage",
+      "check-in",
+      "host",
+      "claim",
+      "turnover"
+    ]
+  },
+  {
+    "id": "2120131865797411236",
+    "category": "Idea",
+    "title": "Damage-deposit evidence pack built on first and last inspection photos",
+    "excerpt": "Drawing on boat charters, where disputes are won or lost on the first and last inspection photos and apps already sell digital check-in/out with photos and signatures, the post pitches a micro-SaaS damage-deposit evidence pack.",
+    "author": "@bruteforcearete",
+    "date": "2026-11-10",
+    "url": "https://x.com/bruteforcearete/status/2120131865797411236",
+    "engagement": 0,
+    "tags": [
+      "idea",
+      "evidence",
+      "check-in",
+      "check-out",
+      "deposit"
     ]
   },
   {
