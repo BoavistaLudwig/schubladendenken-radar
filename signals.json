@@ -1,5 +1,22 @@
 [
   {
+    "id": "2121111166231642163",
+    "category": "Complaint",
+    "title": "Airbnb guest family questions a $730 sofa bed damage claim",
+    "excerpt": "After an Airbnb stay, the host sent photos alleging $730 of damage to a sofa bed. The guest says they will pay nothing until they've shown the photos to their son and asked for an explanation, so the host's photos alone didn't settle it.",
+    "author": "@JustKimfromoz",
+    "date": "2026-11-13",
+    "url": "https://x.com/JustKimfromoz/status/2121111166231642163",
+    "engagement": 13,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "furniture",
+      "evidence",
+      "guest"
+    ]
+  },
+  {
     "id": "2120680961801334996",
     "category": "Complaint",
     "title": "Landlord ghosts roommates on deposit return 2.5 months after move-out",
@@ -65,6 +82,91 @@
       "canada",
       "deposit",
       "regulation"
+    ]
+  },
+  {
+    "id": "2120948409683296500",
+    "category": "Best Practice",
+    "title": "Photograph every room on move-in and again on the last day",
+    "excerpt": "Advice to a new renter: make sure photos of each room are taken when you move in and on the final moving-out day, so the property's condition can be proven and the deposit returned.",
+    "author": "@w_d_t_j_p",
+    "date": "2026-11-12",
+    "url": "https://x.com/w_d_t_j_p/status/2120948409683296500",
+    "engagement": 0,
+    "tags": [
+      "photos",
+      "move-in",
+      "move-out",
+      "deposit",
+      "tenant"
+    ]
+  },
+  {
+    "id": "2120929279664112078",
+    "category": "Idea",
+    "title": "Deposit escrow where deductions need proof from the move-in report",
+    "excerpt": "A hackathon project, Keyback, holds the rent deposit in a smart contract instead of with the landlord. Deductions have to be backed by the move-in report, deadlines are fixed, and every disputed item needs a stated reason.",
+    "author": "@traderndumia",
+    "date": "2026-11-12",
+    "url": "https://x.com/traderndumia/status/2120929279664112078",
+    "engagement": 2,
+    "tags": [
+      "deposit",
+      "escrow",
+      "move-in report",
+      "disputes",
+      "tool idea"
+    ]
+  },
+  {
+    "id": "2120871519962198292",
+    "category": "Idea",
+    "title": "Handover-and-deposit protection for renters who pay a year upfront",
+    "excerpt": "A builder describes renting in Lagos: you pay a full year's rent upfront to a landlord you just met, then hope the keys are real and that the caution deposit comes back. Their hackathon project, Handova, aims to make the handover and deposit less of a leap of faith.",
+    "author": "@crazydevvy",
+    "date": "2026-11-12",
+    "url": "https://x.com/crazydevvy/status/2120871519962198292",
+    "engagement": 12,
+    "tags": [
+      "handover",
+      "deposit",
+      "trust",
+      "tool idea",
+      "Nigeria"
+    ]
+  },
+  {
+    "id": "2120864240756011401",
+    "category": "Insight",
+    "title": "Scottish deposit scheme handled 550 disputes in October, 45% settled early",
+    "excerpt": "SafeDeposits, a Scottish tenancy deposit scheme, reported 550 dispute cases for October 2026, with 45% resolved without needing formal adjudication.",
+    "author": "@SafeDeposits",
+    "date": "2026-11-12",
+    "url": "https://x.com/SafeDeposits/status/2120864240756011401",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "disputes",
+      "statistics",
+      "Scotland",
+      "ADR"
+    ]
+  },
+  {
+    "id": "2120969862625300988",
+    "category": "Insight",
+    "title": "Florida landlords lose deduction rights if they miss the 30-day notice",
+    "excerpt": "In Florida a landlord has 30 days from the end of the lease to send written notice of any claim on the security deposit; missing that deadline means losing the right to deduct from it.",
+    "author": "@mimsreports",
+    "date": "2026-11-12",
+    "url": "https://x.com/mimsreports/status/2120969862625300988",
+    "engagement": 3,
+    "tags": [
+      "deposit",
+      "deadlines",
+      "law",
+      "Florida",
+      "deductions"
     ]
   },
   {
@@ -201,6 +303,23 @@
       "damage claim",
       "ai",
       "host"
+    ]
+  },
+  {
+    "id": "2120499863825908175",
+    "category": "Insight",
+    "title": "FTC settlement of $49.75M includes improper deposit deductions",
+    "excerpt": "Progress Residential and Pretium Partners agreed to pay $49.75 million to settle FTC and state allegations including hidden fees and improper security deposit deductions, which the FTC called its largest-ever landlord enforcement case.",
+    "author": "@SovereignWireHQ",
+    "date": "2026-11-11",
+    "url": "https://x.com/SovereignWireHQ/status/2120499863825908175",
+    "engagement": 1,
+    "tags": [
+      "deposit",
+      "deductions",
+      "regulation",
+      "FTC",
+      "property manager"
     ]
   },
   {
