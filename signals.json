@@ -1,5 +1,22 @@
 [
   {
+    "id": "2121435543838077350",
+    "category": "Complaint",
+    "title": "Tenant heads to court after landlord sits on deposit",
+    "excerpt": "A tenant says the landlord still hasn't returned their deposit and plans to go to the courthouse on Monday. A reply points out that after a 15-year tenancy, repainting and replacing carpets is normal wear and tear, not deductible damage.",
+    "author": "@agirlopinions",
+    "date": "2026-11-14",
+    "url": "https://x.com/agirlopinions/status/2121435543838077350",
+    "engagement": 11,
+    "tags": [
+      "deposit",
+      "dispute",
+      "wear and tear",
+      "small claims",
+      "tenant"
+    ]
+  },
+  {
     "id": "2121111166231642163",
     "category": "Complaint",
     "title": "Airbnb guest family questions a $730 sofa bed damage claim",
@@ -14,6 +31,59 @@
       "furniture",
       "evidence",
       "guest"
+    ]
+  },
+  {
+    "id": "2121221042198994969",
+    "category": "Complaint",
+    "title": "Host says guest stole almost everything from apartment",
+    "excerpt": "An Airbnb host says a guest stole almost everything from their apartment and was caught on CCTV. They opened a police (SAPS) case but say Airbnb support keeps passing them around while they wait for the guest's ID.",
+    "author": "@mother_jane5",
+    "date": "2026-11-13",
+    "url": "https://x.com/mother_jane5/status/2121221042198994969",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "theft",
+      "missing items",
+      "host",
+      "evidence",
+      "platform support"
+    ]
+  },
+  {
+    "id": "2121197288311652823",
+    "category": "Best Practice",
+    "title": "Move-in routine: photograph, test, count keys, send defect list same day",
+    "excerpt": "Before unpacking, take timestamped photos of every room and any existing damage, test heat/AC, hot water and water pressure, and count keys and cards. Send the landlord a written defect list the same day and keep copies until the deposit is settled.",
+    "author": "@offpostkr",
+    "date": "2026-11-13",
+    "url": "https://x.com/offpostkr/status/2121197288311652823",
+    "engagement": 0,
+    "tags": [
+      "move-in",
+      "checklist",
+      "photos",
+      "keys",
+      "defect list",
+      "deposit"
+    ]
+  },
+  {
+    "id": "2121274399483736296",
+    "category": "Best Practice",
+    "title": "Test and log smoke and CO alarms at every turnover",
+    "excerpt": "A Washington property manager notes that working smoke and carbon monoxide alarms are required in rentals, and recommends testing them at every turnover and recording the result on the move-in checklist.",
+    "author": "@JevonsPropMgmt",
+    "date": "2026-11-13",
+    "url": "https://x.com/JevonsPropMgmt/status/2121274399483736296",
+    "engagement": 0,
+    "tags": [
+      "turnover",
+      "move-in checklist",
+      "safety",
+      "property manager",
+      "documentation"
     ]
   },
   {
@@ -167,6 +237,24 @@
       "law",
       "Florida",
       "deductions"
+    ]
+  },
+  {
+    "id": "2120964388093841425",
+    "category": "Insight",
+    "title": "Airbnb limits checkout chores for bookings from Nov 20",
+    "excerpt": "Starting Nov 20, Airbnb hosts can't require heavy checkout chores but can still ask guests to put dishes in the sink, gather used towels and put trash in the bins. Hosts are told to update their checkout instructions and make sure the cleaning fee covers the rest.",
+    "author": "@TheSTRBrief",
+    "date": "2026-11-12",
+    "url": "https://x.com/TheSTRBrief/status/2120964388093841425",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "checkout",
+      "handover",
+      "cleaning fee",
+      "policy",
+      "host"
     ]
   },
   {
