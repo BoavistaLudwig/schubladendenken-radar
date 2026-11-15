@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Schubladendenken Radar</title>
+  <title>Schubladendenken Radar — Furnished Rental Move-In & Move-Out Signals from X</title>
+  <meta name="description" content="Schubladendenken Radar collects real public signals from X about furnished rental move-ins, move-outs, deposits, documentation, damage claims, and best practices. English only, updated daily." />
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
   <style>
@@ -18,12 +19,10 @@
     <div class="max-w-6xl mx-auto px-4 py-5 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
       <div>
         <h1 class="text-2xl font-bold tracking-tight text-slate-900">Schubladendenken Radar</h1>
-        <p class="text-sm text-slate-500 mt-0.5">Insights, ideas & best practices from X · English only · Updated every 24 hours</p>
+        <p class="text-sm text-slate-500 mt-0.5">Real signals from X on furnished rental move-ins, move-outs, deposits & documentation · English only · Updated daily</p>
       </div>
       <div class="flex items-center gap-3 text-xs text-slate-400">
-        <span id="last-updated">Seeded Nov 10, 2026</span>
-        <span class="hidden sm:inline">·</span>
-        <span>X only</span>
+        <span id="last-updated">Loading…</span>
       </div>
     </div>
   </header>
@@ -46,7 +45,7 @@
     </div>
 
     <!-- Stats -->
-    <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8 text-center">
+    <div class="grid grid-cols-2 sm:grid-cols-5 gap-4 mb-8 text-center">
       <div class="bg-white rounded-xl p-4 border border-slate-100">
         <div class="text-2xl font-semibold text-slate-900" id="stat-total">0</div>
         <div class="text-xs text-slate-500">Signals</div>
@@ -58,6 +57,10 @@
       <div class="bg-white rounded-xl p-4 border border-slate-100">
         <div class="text-2xl font-semibold text-emerald-600" id="stat-practices">0</div>
         <div class="text-xs text-slate-500">Best Practices</div>
+      </div>
+      <div class="bg-white rounded-xl p-4 border border-slate-100">
+        <div class="text-2xl font-semibold text-rose-600" id="stat-complaints">0</div>
+        <div class="text-xs text-slate-500">Complaints</div>
       </div>
       <div class="bg-white rounded-xl p-4 border border-slate-100">
         <div class="text-2xl font-semibold text-blue-600" id="stat-ideas">0</div>
@@ -78,7 +81,7 @@
 
   <footer class="border-t border-slate-200 mt-16 py-8 text-center text-xs text-slate-400">
     Content sourced exclusively from public posts on X. No user submissions in this version.<br>
-    Schubladendenken Radar · English only · First version
+    Schubladendenken Radar · English only · Updated daily
   </footer>
 
   <script src="app.js"></script>

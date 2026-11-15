@@ -16,6 +16,7 @@ async function loadSignals() {
     signals = await res.json();
     signals.sort((a, b) => new Date(b.date) - new Date(a.date));
     updateStats();
+    updateLastUpdated();
     render();
   } catch (e) {
     console.error("Failed to load signals", e);
@@ -27,7 +28,15 @@ function updateStats() {
   document.getElementById("stat-total").textContent = signals.length;
   document.getElementById("stat-insights").textContent = signals.filter(s => s.category === "Insight").length;
   document.getElementById("stat-practices").textContent = signals.filter(s => s.category === "Best Practice").length;
+  document.getElementById("stat-complaints").textContent = signals.filter(s => s.category === "Complaint").length;
   document.getElementById("stat-ideas").textContent = signals.filter(s => s.category === "Idea" || s.category === "Feature Request").length;
+}
+
+function updateLastUpdated() {
+  if (signals.length === 0) return;
+  const newest = signals[0].date;
+  const el = document.getElementById("last-updated");
+  if (el) el.textContent = `Latest: ${newest}`;
 }
 
 function render() {
@@ -58,7 +67,7 @@ function render() {
         <span class="category-badge px-2 py-0.5 rounded-full font-medium ${categoryColors[s.category] || 'bg-slate-100 text-slate-700'}">
           ${s.category}
         </span>
-        <div class="flex items-center text-xs text-slate-400 gap-1">
+        <div class="flex items-center text-xs text-slate-400 gap-1" title="Engagement on X">
           <i class="fa-regular fa-heart"></i>
           <span>${s.engagement}</span>
         </div>
