@@ -1,5 +1,38 @@
 [
   {
+    "id": "2122879569812168899",
+    "category": "Best Practice",
+    "title": "Do a quick video walkthrough at Airbnb checkout",
+    "excerpt": "Advice to a guest facing a host's mess claim: make the host back it up with timestamped photos, dispute any Airbnb charge with your card, and record a quick video walkthrough at checkout next time.",
+    "author": "@renterscourt",
+    "date": "2026-11-18",
+    "url": "https://x.com/renterscourt/status/2122879569812168899",
+    "engagement": 0,
+    "tags": [
+      "checkout",
+      "video",
+      "evidence",
+      "airbnb",
+      "chargeback"
+    ]
+  },
+  {
+    "id": "2122846643762446698",
+    "category": "Idea",
+    "title": "Deposit dispute packet builder for small landlords",
+    "excerpt": "A concept for a tool that turns move-in and move-out photos into tidy evidence packets for small landlords with 5 to 50 units, pitched at $39 a month for up to 20 units.",
+    "author": "@MainstreetCX",
+    "date": "2026-11-18",
+    "url": "https://x.com/MainstreetCX/status/2122846643762446698",
+    "engagement": 0,
+    "tags": [
+      "evidence",
+      "deposit dispute",
+      "photos",
+      "tool idea"
+    ]
+  },
+  {
     "id": "2122563718131159327",
     "category": "Insight",
     "title": "Shortlet turnover: 5 hours to check every room for damage and missing items",
@@ -31,6 +64,71 @@
       "guest",
       "resolution center",
       "checkout"
+    ]
+  },
+  {
+    "id": "2122731398813376816",
+    "category": "Complaint",
+    "title": "Guest says Airbnb host staged mess to pin it on them",
+    "excerpt": "A guest says the host pulled chicken wings out of the trash and put them on the table to make it look like the guests left a mess, while the rest of the living room was spotless. They expect Airbnb to side with the host because they didn't take photos at checkout.",
+    "author": "@funnyassjenise",
+    "date": "2026-11-17",
+    "url": "https://x.com/funnyassjenise/status/2122731398813376816",
+    "engagement": 3037,
+    "tags": [
+      "airbnb",
+      "checkout",
+      "damage claim",
+      "evidence",
+      "photos"
+    ]
+  },
+  {
+    "id": "2122612085548839288",
+    "category": "Insight",
+    "title": "Renters ask what to do after party guest dented rental floor",
+    "excerpt": "A tenant asks for advice after a friend's stiletto heels left dents all over their rental apartment's floor during a party, unsure whether the flooring is vinyl. The post drew hundreds of replies debating damage versus wear and tear.",
+    "author": "@AtindigaKene",
+    "date": "2026-11-17",
+    "url": "https://x.com/AtindigaKene/status/2122612085548839288",
+    "engagement": 650,
+    "tags": [
+      "damage",
+      "flooring",
+      "deposit",
+      "wear and tear"
+    ]
+  },
+  {
+    "id": "2122681187747393689",
+    "category": "Insight",
+    "title": "Landlord: floor dents fade into wear and tear over time",
+    "excerpt": "Replying to the stiletto-dent thread, a self-described landlord advises the tenant to leave it for now, saying the more time passes the more it counts as normal wear and tear, and that flooring should be able to take any shoes.",
+    "author": "@Peterclassic612",
+    "date": "2026-11-17",
+    "url": "https://x.com/Peterclassic612/status/2122681187747393689",
+    "engagement": 194,
+    "tags": [
+      "wear and tear",
+      "flooring",
+      "landlord view",
+      "deposit"
+    ]
+  },
+  {
+    "id": "2122652699023827239",
+    "category": "Complaint",
+    "title": "First-year landlord: tenants trashed the place, then demanded deposit",
+    "excerpt": "A landlord says that after 11 months, tenants left without paying, trashed the property, and then physically threatened them to get their deposit back.",
+    "author": "@RnT45t1",
+    "date": "2026-11-17",
+    "url": "https://x.com/RnT45t1/status/2122652699023827239",
+    "engagement": 4,
+    "tags": [
+      "deposit",
+      "damage",
+      "landlord view",
+      "non-payment"
     ]
   },
   {
@@ -81,6 +179,22 @@
       "landlord",
       "move-out",
       "evidence"
+    ]
+  },
+  {
+    "id": "2122295870582321580",
+    "category": "Best Practice",
+    "title": "Run the outgoing inspection against the original inventory",
+    "excerpt": "Walk the property with the outgoing tenant against the original inventory. You spot what needs fixing early, and the deposit conversation is easier when both sides work from the same document.",
+    "author": "@GetHauzed",
+    "date": "2026-11-16",
+    "url": "https://x.com/GetHauzed/status/2122295870582321580",
+    "engagement": 0,
+    "tags": [
+      "inventory",
+      "check-out",
+      "inspection",
+      "deposit"
     ]
   },
   {
