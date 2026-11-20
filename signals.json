@@ -14,7 +14,8 @@
       "dispute",
       "guest",
       "australia"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123583245858062679",
@@ -31,7 +32,8 @@
       "evidence",
       "video",
       "host"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123529379473129771",
@@ -48,7 +50,8 @@
       "photos",
       "pre-existing damage",
       "airbnb"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123509206007341390",
@@ -65,7 +68,8 @@
       "uk",
       "move-out",
       "wear and tear"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123410205346021637",
@@ -82,7 +86,8 @@
       "tenant",
       "india",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122879569812168899",
@@ -99,7 +104,8 @@
       "evidence",
       "airbnb",
       "chargeback"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122846643762446698",
@@ -115,7 +121,8 @@
       "deposit dispute",
       "photos",
       "tool idea"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123119281512599788",
@@ -132,7 +139,8 @@
       "move-out",
       "dispute",
       "UK"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123100810867347687",
@@ -149,7 +157,8 @@
       "evidence",
       "check-in video",
       "pre-existing damage"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122928686907216169",
@@ -166,7 +175,8 @@
       "pre-existing damage",
       "move-out",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122981308481868283",
@@ -183,7 +193,8 @@
       "small claims",
       "evidence",
       "adjudication"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122885736542159268",
@@ -200,7 +211,8 @@
       "maintenance",
       "repairs",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123118836387852631",
@@ -218,7 +230,8 @@
       "keys",
       "meters",
       "landlord"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123099655592374681",
@@ -235,7 +248,8 @@
       "evidence",
       "airbnb",
       "damage claim"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123123268131402024",
@@ -252,7 +266,8 @@
       "checkout",
       "house rules",
       "aircover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122563718131159327",
@@ -269,7 +284,8 @@
       "checkout inspection",
       "missing items",
       "damage"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122543154515837253",
@@ -286,7 +302,8 @@
       "guest",
       "resolution center",
       "checkout"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122731398813376816",
@@ -303,7 +320,8 @@
       "damage claim",
       "evidence",
       "photos"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122612085548839288",
@@ -319,7 +337,8 @@
       "flooring",
       "deposit",
       "wear and tear"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122681187747393689",
@@ -335,7 +354,8 @@
       "flooring",
       "landlord view",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122652699023827239",
@@ -351,7 +371,8 @@
       "damage",
       "landlord view",
       "non-payment"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122744511457841583",
@@ -368,7 +389,8 @@
       "lease",
       "deposit",
       "host"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122192594268729761",
@@ -384,7 +406,8 @@
       "wear and tear",
       "move-out inspection",
       "walls"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122327232647713138",
@@ -401,7 +424,8 @@
       "evidence",
       "deposit dispute",
       "signature"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122333747186192680",
@@ -418,7 +442,8 @@
       "landlord",
       "move-out",
       "evidence"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2122295870582321580",
@@ -434,7 +459,8 @@
       "check-out",
       "inspection",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121851982931443979",
@@ -449,7 +475,8 @@
       "move-out checklist",
       "property management",
       "deposit dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121891084762829275",
@@ -466,7 +493,8 @@
       "students",
       "non-refund",
       "furnished housing"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121989168674832586",
@@ -482,7 +510,8 @@
       "move-out inspection",
       "property management",
       "utilities"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121995492284670259",
@@ -499,7 +528,8 @@
       "timestamps",
       "airbnb",
       "evidence"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121435543838077350",
@@ -516,7 +546,8 @@
       "wear and tear",
       "small claims",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121716684008411454",
@@ -533,7 +564,8 @@
       "damage",
       "evidence",
       "deposit dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121663033235886567",
@@ -550,7 +582,8 @@
       "scope dispute",
       "call recording",
       "evidence"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121614272203563170",
@@ -566,7 +599,8 @@
       "move-out",
       "damage claims",
       "nigeria"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121652648252231950",
@@ -582,7 +616,8 @@
       "move-in",
       "move-out",
       "wear and tear"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121663914668675523",
@@ -599,7 +634,8 @@
       "furnished",
       "photos",
       "landlord"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121589716843724832",
@@ -616,7 +652,8 @@
       "withholding",
       "evidence",
       "india"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121111166231642163",
@@ -633,7 +670,8 @@
       "furniture",
       "evidence",
       "guest"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121221042198994969",
@@ -651,7 +689,8 @@
       "host",
       "evidence",
       "platform support"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121197288311652823",
@@ -669,7 +708,8 @@
       "keys",
       "defect list",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121274399483736296",
@@ -686,7 +726,8 @@
       "safety",
       "property manager",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121317177718665702",
@@ -702,7 +743,8 @@
       "deposit",
       "bogus deductions",
       "lawsuit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121307212387897424",
@@ -719,7 +761,8 @@
       "dispute",
       "documentation",
       "platform support"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121199885126869128",
@@ -735,7 +778,8 @@
       "signature",
       "photo evidence",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121181277974139046",
@@ -752,7 +796,8 @@
       "damage claim",
       "turnover photos",
       "policy change"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2121197822129434662",
@@ -769,7 +814,8 @@
       "AI",
       "missing items",
       "report automation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120680961801334996",
@@ -786,7 +832,8 @@
       "tenant",
       "new york",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120780994529910883",
@@ -803,7 +850,8 @@
       "host",
       "airbnb",
       "pre-existing damage"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120752185847775621",
@@ -820,7 +868,8 @@
       "photos",
       "damage",
       "cleaners"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120676700266860973",
@@ -837,7 +886,8 @@
       "canada",
       "deposit",
       "regulation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120948409683296500",
@@ -854,7 +904,8 @@
       "move-out",
       "deposit",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120929279664112078",
@@ -871,7 +922,8 @@
       "move-in report",
       "disputes",
       "tool idea"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120871519962198292",
@@ -888,7 +940,8 @@
       "trust",
       "tool idea",
       "Nigeria"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120864240756011401",
@@ -905,7 +958,8 @@
       "statistics",
       "Scotland",
       "ADR"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120969862625300988",
@@ -922,7 +976,8 @@
       "law",
       "Florida",
       "deductions"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120964388093841425",
@@ -940,7 +995,8 @@
       "cleaning fee",
       "policy",
       "host"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120420763647787039",
@@ -957,7 +1013,8 @@
       "dispute",
       "host",
       "short-term rental"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120617580180521447",
@@ -974,7 +1031,8 @@
       "wear and tear",
       "tenant",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120595567688499496",
@@ -991,7 +1049,8 @@
       "theft",
       "missing items",
       "liability"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120631035721617746",
@@ -1008,7 +1067,8 @@
       "guest",
       "fees",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120432172460920859",
@@ -1025,7 +1085,8 @@
       "inspection",
       "photos",
       "damage claim"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120352416436572483",
@@ -1042,7 +1103,8 @@
       "guest",
       "evidence",
       "photos"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120577577777811615",
@@ -1059,7 +1121,8 @@
       "evidence",
       "handover",
       "legal"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120598691434430708",
@@ -1076,7 +1139,8 @@
       "damage claim",
       "ai",
       "host"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120499863825908175",
@@ -1093,7 +1157,8 @@
       "regulation",
       "FTC",
       "property manager"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120083718412902810",
@@ -1109,7 +1174,8 @@
       "evidence",
       "deposit",
       "damage"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2119957404054131075",
@@ -1125,7 +1191,8 @@
       "evidence",
       "deposit",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "4",
@@ -1141,7 +1208,8 @@
       "pre-existing damage",
       "deposit",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "12",
@@ -1157,7 +1225,8 @@
       "ID verification",
       "safety",
       "hosts"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120253529310855633",
@@ -1173,7 +1242,8 @@
       "damage",
       "host",
       "short-term rental"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120183773895540828",
@@ -1190,7 +1260,8 @@
       "evidence",
       "inspection",
       "pre-existing damage"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120156106139881595",
@@ -1207,7 +1278,8 @@
       "evidence",
       "japan",
       "regulation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120169910860988779",
@@ -1224,7 +1296,8 @@
       "host",
       "claim",
       "turnover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2120131865797411236",
@@ -1241,7 +1314,8 @@
       "check-in",
       "check-out",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2119880006566576172",
@@ -1258,7 +1332,8 @@
       "damage",
       "dispute",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "1",
@@ -1275,7 +1350,8 @@
       "fake damage",
       "threat",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2",
@@ -1291,7 +1367,8 @@
       "theft",
       "missing items",
       "checkout"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2119233010805473384",
@@ -1307,7 +1384,8 @@
       "damage",
       "evidence",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2119139594172297253",
@@ -1323,7 +1401,8 @@
       "damage",
       "evidence",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2118661641109717087",
@@ -1338,7 +1417,8 @@
       "deposit",
       "evidence",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "9",
@@ -1353,7 +1433,8 @@
       "photo organization",
       "tool idea",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "6",
@@ -1369,7 +1450,8 @@
       "Germany",
       "photos",
       "best practice"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "10",
@@ -1384,7 +1466,8 @@
       "timing of inspection",
       "deposit",
       "evidence"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2118124166515920960",
@@ -1400,7 +1483,8 @@
       "deposit",
       "handover",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2118087656953520326",
@@ -1415,7 +1499,8 @@
       "damage",
       "dispute",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2118072571803656409",
@@ -1431,7 +1516,8 @@
       "dispute",
       "evidence",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2117911932359582151",
@@ -1447,7 +1533,8 @@
       "evidence",
       "deposit",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "5",
@@ -1463,7 +1550,8 @@
       "timestamped photos",
       "inventory",
       "PropTech"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2117522959321682320",
@@ -1478,7 +1566,8 @@
       "damage",
       "dispute",
       "evidence"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2115606542183801121",
@@ -1494,7 +1583,8 @@
       "evidence",
       "handover",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2115509000548786506",
@@ -1510,7 +1600,8 @@
       "deposit",
       "damage",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2115437777252671720",
@@ -1524,7 +1615,8 @@
     "tags": [
       "deposit",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2115349860345925647",
@@ -1540,7 +1632,8 @@
       "deposit",
       "evidence",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2115278128817852474",
@@ -1557,7 +1650,8 @@
       "deposit",
       "documentation",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2114336242905006554",
@@ -1572,7 +1666,8 @@
       "damage",
       "dispute",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2114202651579793527",
@@ -1587,7 +1682,8 @@
       "deposit",
       "damage",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2114201911079616692",
@@ -1603,7 +1699,8 @@
       "dispute",
       "evidence",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2113876427246543129",
@@ -1619,7 +1716,8 @@
       "damage",
       "dispute",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2113549078491480454",
@@ -1636,7 +1734,8 @@
       "damage",
       "dispute",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2113542838902567373",
@@ -1651,7 +1750,8 @@
       "deposit",
       "damage",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2113288700209541372",
@@ -1667,7 +1767,8 @@
       "damage",
       "handover",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2113251356290990187",
@@ -1683,7 +1784,8 @@
       "damage",
       "documentation",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2112925628185886815",
@@ -1699,7 +1801,8 @@
       "evidence",
       "handover",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2112234052157591986",
@@ -1715,7 +1818,8 @@
       "evidence",
       "handover",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2111735034260390104",
@@ -1729,7 +1833,8 @@
     "tags": [
       "deposit",
       "handover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2111511614197563561",
@@ -1745,7 +1850,8 @@
       "deposit",
       "evidence",
       "inventory"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2110312820994625896",
@@ -1762,7 +1868,8 @@
       "damage",
       "documentation",
       "inventory"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2110250366281621594",
@@ -1776,7 +1883,8 @@
     "tags": [
       "deposit",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "7",
@@ -1792,7 +1900,8 @@
       "handover",
       "protocol missing",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "3",
@@ -1808,7 +1917,8 @@
       "deposit",
       "move-out",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "11",
@@ -1824,7 +1934,8 @@
       "email evidence",
       "move-out",
       "best practice"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "8",
@@ -1840,6 +1951,203 @@
       "timestamp",
       "photos",
       "guest protection"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "li-getitcleaned-checkout",
+    "source": "LinkedIn",
+    "category": "Best Practice",
+    "title": "Most checkout deductions start from inventory mismatches, not dramatic damage",
+    "excerpt": "An end-of-tenancy cleaning company says deposit deductions usually begin with cleanliness and inventory mismatches, especially ovens, carpets, limescale, and window tracks. Their guide treats the checkout inventory plus photos as the record that prevents the dispute.",
+    "author": "Get It Cleaned",
+    "date": "2026-01-23",
+    "url": "https://www.linkedin.com/posts/getitcleaned_how-to-pass-an-end-of-tenancy-inspection-activity-7420600846188609537-RWnV",
+    "engagement": 0,
+    "tags": [
+      "checkout",
+      "inventory",
+      "cleaning",
+      "deposit",
+      "uk"
+    ]
+  },
+  {
+    "id": "reddit-1nxjw5w",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "California tenant says deposit statement arrived a day past the 21-day deadline",
+    "excerpt": "A tenant who moved out July 31 says the landlord's deduction letter arrived on day 22. Deductions covered cleaning, blinds, and painting after a 9-year tenancy, despite professional-cleaning receipts and move-out photos and video. They asked whether missing the statutory window means the whole deposit comes back.",
+    "author": "r/Tenant",
+    "date": "2025-10-04",
+    "url": "https://www.reddit.com/r/Tenant/comments/1nxjw5w/withheld_security_deposit/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "deadline",
+      "california",
+      "photos",
+      "itemized deductions"
+    ]
+  },
+  {
+    "id": "reddit-1mec4yc",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "NYC landlord listed damage but missed the 14-day itemized-cost deadline",
+    "excerpt": "A tenant says the landlord emailed about floor scratches, chipped paint, and a stained bathroom and kept the whole deposit, but sent no dollar amounts until after New York's 14-day window. Commenters said a late itemized statement means the deposit itself must be returned, even if a separate damage claim could still exist.",
+    "author": "r/NYCapartments",
+    "date": "2025-07-31",
+    "url": "https://www.reddit.com/r/NYCapartments/comments/1mec4yc/landlord_withheld_full_security_deposit_after_i/",
+    "engagement": 7,
+    "tags": [
+      "deposit",
+      "deadline",
+      "new york",
+      "itemized deductions"
+    ]
+  },
+  {
+    "id": "li-wade-depositcloud",
+    "source": "LinkedIn",
+    "category": "Insight",
+    "title": "Operators say many still skip the photo rules AB 2801 now requires",
+    "excerpt": "A deposit-software founder replies that plenty of operators still do not follow existing security-deposit practice, and that California's before-and-after photo rules will raise dispute risk for anyone without a documented inspection. The post pitches guided move-in and move-out capture with photos and a damage estimate.",
+    "author": "Wade McGown",
+    "date": "2025-07-11",
+    "url": "https://www.linkedin.com/posts/wade-mcgown-973851132_ab-2801-photograph-requirements-for-security-activity-7349464560153554945-DFBK",
+    "engagement": 0,
+    "tags": [
+      "california",
+      "photos",
+      "compliance",
+      "tool idea",
+      "deposit"
+    ]
+  },
+  {
+    "id": "li-rioo-movein",
+    "source": "LinkedIn",
+    "category": "Idea",
+    "title": "Thin move-in condition notes become the move-out deposit fight",
+    "excerpt": "A proptech post argues that sparse move-in documentation is what later turns into security-deposit arguments about pre-existing damage. The product they describe stores a detailed condition report, photos of existing issues, and a digital signature for the length of the lease.",
+    "author": "RIOO",
+    "date": "2025-07-10",
+    "url": "https://www.linkedin.com/posts/riooapp_moveincondition-propertydocumentation-activity-7348942836098048001-WwuL",
+    "engagement": 0,
+    "tags": [
+      "move-in",
+      "condition report",
+      "photos",
+      "tool idea",
+      "deposit"
+    ]
+  },
+  {
+    "id": "reddit-1lpkqey",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "Half the deposit withheld in Indiana with no itemized list and no move-out photos",
+    "excerpt": "An Indiana renter forgot move-out photos during a rushed exit and then lost almost half of a $1,195 deposit with no itemized damage list. They still had move-in photos. After asking for the itemized statement they recovered more than the first offer, though not the full deposit.",
+    "author": "r/Renters",
+    "date": "2025-07-02",
+    "url": "https://www.reddit.com/r/Renters/comments/1lpkqey/usain_forgot_to_take_move_out_photos_how_boned_am/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "itemized deductions",
+      "move-out photos",
+      "indiana"
+    ]
+  },
+  {
+    "id": "reddit-1lj8u8b",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Letting agent threatens to hold the deposit unless the tenant sends room photos",
+    "excerpt": "On the last day of a house-share tenancy, a UK letting agent emailed asking for photos of the room or they would not return the deposit. The next tenant was due the following day. Replies said checkout evidence is the agent's job and the deposit scheme is the place to dispute a hold.",
+    "author": "r/LegalAdviceUK",
+    "date": "2025-06-24",
+    "url": "https://www.reddit.com/r/LegalAdviceUK/comments/1lj8u8b/lettings_agency_trying_to_withhold_deposit_for/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "checkout photos",
+      "uk",
+      "letting agent",
+      "dispute"
+    ]
+  },
+  {
+    "id": "li-paul-rouillard",
+    "source": "LinkedIn",
+    "category": "Best Practice",
+    "title": "Photograph every wall and appliance before the tenant arrives",
+    "excerpt": "An Ontario property manager tells landlords to finish a photo walkthrough before move-in: every wall, appliance, outlet, and outdoor area. The point is a record that exists before the tenant has keys, not a reconstruction after a dispute starts.",
+    "author": "Paul J Rouillard",
+    "date": "2025-06-05",
+    "url": "https://www.linkedin.com/posts/paul-j-rouillard-18076118_moveininspection-landlordtips-rentalchecklist-activity-7336416454986092544-GWok",
+    "engagement": 0,
+    "tags": [
+      "move-in",
+      "photos",
+      "landlord",
+      "inspection",
+      "ontario"
+    ]
+  },
+  {
+    "id": "li-sonia-roham-ab2801",
+    "source": "LinkedIn",
+    "category": "Insight",
+    "title": "California AB 2801 makes move-in and move-out photos a legal requirement",
+    "excerpt": "A property manager summarizes AB 2801: from April 2025, landlords who deduct from a deposit must photograph the unit after move-out and before repairs, then again after cleaning or repairs, and send those photos with the itemized statement. New tenancies from July 1, 2025 also need move-in photos.",
+    "author": "Sonia Roham",
+    "date": "2025-04-07",
+    "url": "https://www.linkedin.com/posts/sonia-roham_californiarealestate-propertymanagement-activity-7315160381981609984-TaXB",
+    "engagement": 1,
+    "tags": [
+      "california",
+      "photos",
+      "regulation",
+      "deposit",
+      "move-out"
+    ]
+  },
+  {
+    "id": "li-szilvia-wear-tear",
+    "source": "LinkedIn",
+    "category": "Best Practice",
+    "title": "Deposit schemes want dated photos to separate wear and tear from damage",
+    "excerpt": "A UK lettings post restates scheme guidance: faded carpet and small scuffs are wear and tear; holes, broken fixtures, and stained carpet are damage. The proof stack is a dated check-in and check-out inventory, invoices, correspondence, and mid-tenancy inspection notes.",
+    "author": "Szilvia Nemeth",
+    "date": "2025-03-13",
+    "url": "https://www.linkedin.com/posts/szilvianemeth_wear-tear-vs-damage-what-deposit-schemes-activity-7305988641640579076-yQn6",
+    "engagement": 0,
+    "tags": [
+      "wear and tear",
+      "inventory",
+      "photos",
+      "uk",
+      "deposit"
+    ]
+  },
+  {
+    "id": "reddit-1i0ozoo",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "Tenants say day-one photos got later deposit claims withdrawn",
+    "excerpt": "In a UK housing thread, renters describe filming and photographing the flat on move-in day and emailing copies to the landlord or agent. Several say that record was enough to get later deduction claims dropped. Others warn it only works if you also dispute the official inventory at the start, not two years later.",
+    "author": "r/HousingUK",
+    "date": "2025-01-13",
+    "url": "https://www.reddit.com/r/HousingUK/comments/1i0ozoo/can_taking_your_own_photos_actually_stop_deposit/",
+    "engagement": 0,
+    "tags": [
+      "photos",
+      "inventory",
+      "deposit",
+      "uk",
+      "move-in"
     ]
   }
 ]
