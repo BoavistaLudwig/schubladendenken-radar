@@ -1,5 +1,90 @@
 [
   {
+    "id": "2123616747991532023",
+    "category": "Complaint",
+    "title": "Airbnb host damage claim escalates from $840 to $1,616",
+    "excerpt": "A parent disputing what she believes are false damage claims after her son's Adelaide stay says the host's demand grew from $840 to $1,616, with no resolution after almost two weeks.",
+    "author": "@JustKimfromoz",
+    "date": "2026-11-20",
+    "url": "https://x.com/JustKimfromoz/status/2123616747991532023",
+    "engagement": 1,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "dispute",
+      "guest",
+      "australia"
+    ]
+  },
+  {
+    "id": "2123583245858062679",
+    "category": "Insight",
+    "title": "Airbnb support wants full video clips, not still photos, for payout",
+    "excerpt": "A host shared an Airbnb Support email (Nov 19) saying the evidence was not enough for a full payout: photos showed people in the hallway, but full video clips were needed rather than still photos.",
+    "author": "@Abry_Anthraper",
+    "date": "2026-11-20",
+    "url": "https://x.com/Abry_Anthraper/status/2123583245858062679",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "aircover",
+      "evidence",
+      "video",
+      "host"
+    ]
+  },
+  {
+    "id": "2123529379473129771",
+    "category": "Best Practice",
+    "title": "Guest photographs pre-existing issues and texts them on day one",
+    "excerpt": "On a family Airbnb stay, a guest photographed everything that could become an issue and texted the photos to the management company on the first day.",
+    "author": "@JoannSarcinella",
+    "date": "2026-11-19",
+    "url": "https://x.com/JoannSarcinella/status/2123529379473129771",
+    "engagement": 49,
+    "tags": [
+      "guest",
+      "check-in",
+      "photos",
+      "pre-existing damage",
+      "airbnb"
+    ]
+  },
+  {
+    "id": "2123509206007341390",
+    "category": "Complaint",
+    "title": "Landlord tries to keep £2,100 of deposit for carpets and repainting",
+    "excerpt": "After three years in a Stockport flat, returned spotless, a tenant got an email the next morning claiming £1,400 for carpets and £700 for repainting as \"standard deductions\".",
+    "author": "@_Apari1",
+    "date": "2026-11-19",
+    "url": "https://x.com/_Apari1/status/2123509206007341390",
+    "engagement": 34,
+    "tags": [
+      "deposit",
+      "deductions",
+      "uk",
+      "move-out",
+      "wear and tear"
+    ]
+  },
+  {
+    "id": "2123410205346021637",
+    "category": "Best Practice",
+    "title": "Ask for an itemised deduction statement instead of conceding the deposit",
+    "excerpt": "If a landlord says they're keeping the whole deposit for painting and cleaning, don't concede; ask for an itemised statement of deductions supported by bills, photographs and the relevant rental agreement clauses.",
+    "author": "@ReetiUnfiltered",
+    "date": "2026-11-19",
+    "url": "https://x.com/ReetiUnfiltered/status/2123410205346021637",
+    "engagement": 8,
+    "tags": [
+      "deposit",
+      "deductions",
+      "tenant",
+      "india",
+      "documentation"
+    ]
+  },
+  {
     "id": "2122879569812168899",
     "category": "Best Practice",
     "title": "Do a quick video walkthrough at Airbnb checkout",
@@ -133,6 +218,40 @@
       "keys",
       "meters",
       "landlord"
+    ]
+  },
+  {
+    "id": "2123099655592374681",
+    "category": "Best Practice",
+    "title": "Check-in video disproves a $640 Airbnb floor damage claim",
+    "excerpt": "A guest says an Airbnb host demanded $640 for a burned hardwood floor, citing photographic evidence; the guest's own check-in video showed the burn was already there.",
+    "author": "@somaar___",
+    "date": "2026-11-18",
+    "url": "https://x.com/somaar___/status/2123099655592374681",
+    "engagement": 124,
+    "tags": [
+      "check-in",
+      "video",
+      "evidence",
+      "airbnb",
+      "damage claim"
+    ]
+  },
+  {
+    "id": "2123123268131402024",
+    "category": "Insight",
+    "title": "Airbnb's new house rules limit guest fines and checkout chores",
+    "excerpt": "For stays booked from Nov 20, hosts generally can't fine guests or require chores like stripping beds, washing dishes or taking trash off-site; real damage is routed to AirCover instead.",
+    "author": "@shortstay_cmps",
+    "date": "2026-11-18",
+    "url": "https://x.com/shortstay_cmps/status/2123123268131402024",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "policy",
+      "checkout",
+      "house rules",
+      "aircover"
     ]
   },
   {
