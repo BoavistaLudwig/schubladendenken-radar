@@ -41,7 +41,7 @@ function escapeHtml(value) {
 
 async function loadSignals() {
   try {
-    const res = await fetch("signals.json");
+    const res = await fetch("signals.json?v=" + Date.now());
     signals = await res.json();
     signals.sort((a, b) => new Date(b.date) - new Date(a.date));
     updateStats();
