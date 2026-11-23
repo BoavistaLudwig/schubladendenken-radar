@@ -1,5 +1,138 @@
 [
   {
+    "id": "2124616002432573714",
+    "category": "Best Practice",
+    "title": "Timestamped 4K move-out walkthrough defeats a $6,500 small-claims damage suit",
+    "excerpt": "A tenant says their landlord sued in small claims for $6,500 in property damage to keep the security deposit, not realizing the tenant had filmed a 4K timestamped walkthrough on move-out day with the landlord standing in the background.",
+    "author": "@De_luxeee",
+    "date": "2026-11-22",
+    "url": "https://x.com/De_luxeee/status/2124616002432573714",
+    "engagement": 192,
+    "tags": [
+      "move-out",
+      "video evidence",
+      "deposit",
+      "small claims",
+      "walkthrough"
+    ]
+  },
+  {
+    "id": "2124519436308627956",
+    "category": "Complaint",
+    "title": "Landlord bills $900 for carpet that move-in photos show was already stained",
+    "excerpt": "After three years and two days of cleaning, a couple photographed every room before handing over the keys. Three weeks later the deductions listed carpet replacement $900, repaint $650 and cleaning $250, but their move-in photos showed the carpet was already stained.",
+    "author": "@lynns_xx",
+    "date": "2026-11-22",
+    "url": "https://x.com/lynns_xx/status/2124519436308627956",
+    "engagement": 31,
+    "tags": [
+      "deposit",
+      "move-in photos",
+      "pre-existing damage",
+      "carpet",
+      "move-out"
+    ]
+  },
+  {
+    "id": "2124462153289592930",
+    "category": "Insight",
+    "title": "Host made the same $450 rug damage claim against several guests",
+    "excerpt": "Airbnb support told a guest that the host had made the same $450 damage claim, over the same supposedly ruined rug, against three other guests. Airbnb canceled the charge that evening.",
+    "author": "@teeteesunflower",
+    "date": "2026-11-22",
+    "url": "https://x.com/teeteesunflower/status/2124462153289592930",
+    "engagement": 1,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "repeat claims",
+      "guest",
+      "platform support"
+    ]
+  },
+  {
+    "id": "2124649913485336745",
+    "category": "Complaint",
+    "title": "Superhost says AirCover damage claim evidence was never fully reviewed",
+    "excerpt": "A three-year Airbnb Superhost says an AirCover claim for serious property damage is stuck with key evidence disputed and supervisor requests unanswered, and is asking Airbnb leadership for an independent review.",
+    "author": "@GanbarovAn68622",
+    "date": "2026-11-22",
+    "url": "https://x.com/GanbarovAn68622/status/2124649913485336745",
+    "engagement": 0,
+    "tags": [
+      "aircover",
+      "host",
+      "damage claim",
+      "evidence",
+      "escalation"
+    ]
+  },
+  {
+    "id": "2124548867534282948",
+    "category": "Complaint",
+    "title": "Landlord keeps $2,400 deposit, $1,800 of it for painter's tape residue",
+    "excerpt": "A tenant who spent three days cleaning before move-out says the landlord kept the entire $2,400 deposit, including $1,800 to remove painter's tape residue from a baseboard.",
+    "author": "@ChiiidCoin",
+    "date": "2026-11-22",
+    "url": "https://x.com/ChiiidCoin/status/2124548867534282948",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "deductions",
+      "move-out",
+      "cleaning"
+    ]
+  },
+  {
+    "id": "2124608872287711380",
+    "category": "Insight",
+    "title": "Washington law requires a signed move-in condition checklist to hold a deposit",
+    "excerpt": "In Washington, RCW 59.18.260 requires landlords who collect a security deposit to provide a written move-in condition checklist signed and dated by both parties, covering existing damage, cleanliness, flooring, appliances and fixtures.",
+    "author": "@SJAPropMgmt",
+    "date": "2026-11-22",
+    "url": "https://x.com/SJAPropMgmt/status/2124608872287711380",
+    "engagement": 0,
+    "tags": [
+      "move-in checklist",
+      "deposit law",
+      "washington",
+      "documentation"
+    ]
+  },
+  {
+    "id": "2124529675418693796",
+    "category": "Complaint",
+    "title": "San Francisco landlord tries to take $5,000 attorney fee from deposit at move-out",
+    "excerpt": "Tenants in San Francisco say that at move-out their landlord tried to take $5,000 from their deposit for an attorney fee that was never mentioned before, after an earlier 60% rent increase.",
+    "author": "@offbeatnewsnb",
+    "date": "2026-11-22",
+    "url": "https://x.com/offbeatnewsnb/status/2124529675418693796",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "deductions",
+      "move-out",
+      "tenant rights"
+    ]
+  },
+  {
+    "id": "2124140234095071333",
+    "category": "Complaint",
+    "title": "Airbnb host files $400 damage claim using stock photos as evidence",
+    "excerpt": "A guest says their Airbnb host filed a $400 damage claim using stock photos from the internet. The guest found the originals by reverse image search and sent Airbnb the proof, but two months later the claim is still open.",
+    "author": "@CristianMD77",
+    "date": "2026-11-21",
+    "url": "https://x.com/CristianMD77/status/2124140234095071333",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "fake evidence",
+      "guest",
+      "dispute"
+    ]
+  },
+  {
     "id": "2123616747991532023",
     "category": "Complaint",
     "title": "Airbnb host damage claim escalates from $840 to $1,616",
@@ -56,8 +189,8 @@
   {
     "id": "2123509206007341390",
     "category": "Complaint",
-    "title": "Landlord tries to keep \u00a32,100 of deposit for carpets and repainting",
-    "excerpt": "After three years in a Stockport flat, returned spotless, a tenant got an email the next morning claiming \u00a31,400 for carpets and \u00a3700 for repainting as \"standard deductions\".",
+    "title": "Landlord tries to keep £2,100 of deposit for carpets and repainting",
+    "excerpt": "After three years in a Stockport flat, returned spotless, a tenant got an email the next morning claiming £1,400 for carpets and £700 for repainting as \"standard deductions\".",
     "author": "@_Apari1",
     "date": "2026-11-19",
     "url": "https://x.com/_Apari1/status/2123509206007341390",
@@ -128,7 +261,7 @@
     "id": "2123119281512599788",
     "category": "Complaint",
     "title": "Landlord bills 5 years of wear and tear for a planned redecoration",
-    "excerpt": "A UK tenant says the landlord planned a carpet replacement and redecoration a month before the final inspection and now wants the tenant to pay for all of it, threatening costs beyond the \u00a31,000 deposit for general wear and tear. The tenant plans to challenge it.",
+    "excerpt": "A UK tenant says the landlord planned a carpet replacement and redecoration a month before the final inspection and now wants the tenant to pay for all of it, threatening costs beyond the £1,000 deposit for general wear and tear. The tenant plans to challenge it.",
     "author": "@Socialist_Crow",
     "date": "2026-11-18",
     "url": "https://x.com/Socialist_Crow/status/2123119281512599788",
@@ -463,6 +596,24 @@
     "source": "X"
   },
   {
+    "id": "reddit-1xxl0aa",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "STR owners ask what still protects the house after Airbnb rule change",
+    "excerpt": "A short-term rental operator says five owners asked the same question after the Nov 20 Airbnb house-rule changes: what protects the property now that AirCover does less than many assume. The operator keeps damage waivers, rental agreements, ID checks on longer stays, and deposits in place.",
+    "author": "u/unknown",
+    "date": "2026-11-16",
+    "url": "https://www.reddit.com/r/ShortTermRentals/comments/1xxl0aa/5_owners_one_question_after_nov_20_what_protects/",
+    "engagement": 5,
+    "tags": [
+      "airbnb",
+      "short-term rental",
+      "damage waiver",
+      "host",
+      "policy"
+    ]
+  },
+  {
     "id": "2121851982931443979",
     "category": "Insight",
     "title": "'The move-out checklist decides every deposit dispute'",
@@ -482,7 +633,7 @@
     "id": "2121891084762829275",
     "category": "Complaint",
     "title": "Students report unreturned PG security deposits",
-    "excerpt": "A group of 12+ students in Greater Noida say their PG (furnished paying-guest housing) won't refund security deposits; their joint complaint documents \u20b982,500 outstanding for 8 students.",
+    "excerpt": "A group of 12+ students in Greater Noida say their PG (furnished paying-guest housing) won't refund security deposits; their joint complaint documents ₹82,500 outstanding for 8 students.",
     "author": "@surajojha11204",
     "date": "2026-11-15",
     "url": "https://x.com/surajojha11204/status/2121891084762829275",
@@ -589,7 +740,7 @@
     "id": "2121614272203563170",
     "category": "Complaint",
     "title": "Lagos caution deposit lost over a 'scratch on the wall'",
-    "excerpt": "A tenant hands over a \u20a61,000,000 caution deposit, and at move-out a year later a sudden 'scratch on the wall' leads to weeks of excuses and unanswered calls until the money is gone.",
+    "excerpt": "A tenant hands over a ₦1,000,000 caution deposit, and at move-out a year later a sudden 'scratch on the wall' leads to weeks of excuses and unanswered calls until the money is gone.",
     "author": "@ibnWeb3",
     "date": "2026-11-14",
     "url": "https://x.com/ibnWeb3/status/2121614272203563170",
@@ -641,7 +792,7 @@
     "id": "2121589716843724832",
     "category": "Insight",
     "title": "Deposit can't be held until the landlord finds a new tenant",
-    "excerpt": "An Indian consumer commission ordered a landlord who kept an \u20b980,000 deposit 'until I find a new tenant' to repay it with 9% interest, ruling that withholding it without supporting evidence was unfair trade practice.",
+    "excerpt": "An Indian consumer commission ordered a landlord who kept an ₹80,000 deposit 'until I find a new tenant' to repay it with 9% interest, ruling that withholding it without supporting evidence was unfair trade practice.",
     "author": "@TaxBuddy1",
     "date": "2026-11-14",
     "url": "https://x.com/TaxBuddy1/status/2121589716843724832",
@@ -1180,7 +1331,7 @@
   {
     "id": "2119957404054131075",
     "category": "Best Practice",
-    "title": "A move-in and move-out inventory with photos is the tenant\u2019s best proof",
+    "title": "A move-in and move-out inventory with photos is the tenant’s best proof",
     "excerpt": "In a reply to a deposit fight, a user says a move-in/move-out inventory and photos are the tenant's strongest evidence if they took them.",
     "author": "@Moronmuskrat",
     "date": "2026-11-10",
@@ -1318,6 +1469,24 @@
     "source": "X"
   },
   {
+    "id": "reddit-1xs69uw",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Airbnb host claims $590 for faulty towel bars after 5-star review",
+    "excerpt": "A guest reported two loose towel bars that detached during a one-night stay; the host reassured them everything was fine and both sides left 5-star reviews. Two weeks later the host filed a $590 claim. Airbnb denied the guest's appeal citing checkout photos, and the guest is now disputing the charge with their bank.",
+    "author": "u/unknown",
+    "date": "2026-11-10",
+    "url": "https://www.reddit.com/r/FuckAirbnb/comments/1xs69uw/host_reassured_me_everything_is_fine_gave_me_5/",
+    "engagement": 50,
+    "tags": [
+      "airbnb",
+      "damage claim",
+      "guest",
+      "dispute",
+      "checkout"
+    ]
+  },
+  {
     "id": "2119880006566576172",
     "category": "Complaint",
     "title": "Landlord skipped move-out walkthrough, then billed for cleaning and drywall",
@@ -1339,7 +1508,7 @@
     "id": "1",
     "category": "Insight",
     "title": "Airbnb host claims fabricated damages and issues threat at checkout",
-    "excerpt": "Booked an Airbnb in Miami for a girls' weekend. At checkout the host demanded an additional $600, claiming we damaged a designer mirror, stained the couch, and broke a coffee machine \u2014 none of which we touched. When asked for proof, the host replied: \u201cYou can leave, but I know where you work.\u201d Immediately contacted Airbnb support and started recording everything.",
+    "excerpt": "Booked an Airbnb in Miami for a girls' weekend. At checkout the host demanded an additional $600, claiming we damaged a designer mirror, stained the couch, and broke a coffee machine — none of which we touched. When asked for proof, the host replied: “You can leave, but I know where you work.” Immediately contacted Airbnb support and started recording everything.",
     "author": "@ailyashley",
     "date": "2026-11-09",
     "url": "https://x.com/ailyashley/status/2119686535939334284",
@@ -1390,7 +1559,7 @@
   {
     "id": "2119139594172297253",
     "category": "Complaint",
-    "title": "Photos and a later tenant\u2019s deposition won back a withheld deposit",
+    "title": "Photos and a later tenant’s deposition won back a withheld deposit",
     "excerpt": "A tenant had a deposit withheld for a pre-existing carpet stain despite move-in photos and a later tenant's deposition that the carpet was never replaced, then recovered the $500 deposit in small claims but not treble damages.",
     "author": "@505Ledfoot",
     "date": "2026-11-07",
@@ -1407,7 +1576,7 @@
   {
     "id": "2118661641109717087",
     "category": "Complaint",
-    "title": "Landlord won\u2019t return deposit despite evidence the unit was left in good condition",
+    "title": "Landlord won’t return deposit despite evidence the unit was left in good condition",
     "excerpt": "A tenant is looking for a lawyer after a former landlord refused to refund the security deposit despite evidence the apartment was left in good condition, with unkept promises since March.",
     "author": "@BushenyiBouy",
     "date": "2026-11-06",
@@ -1440,13 +1609,13 @@
     "id": "6",
     "category": "Best Practice",
     "title": "Document scratches immediately with photo, date, and signed handover protocol",
-    "excerpt": "Kratzer im Parkett beim Einzug? Foto, Datum, \u00dcbergabeprotokoll, beide unterschreiben. So gibt es keinen Streit um die Kaution. (Scratches in the parquet on move-in? Photo, date, handover protocol, both sign. No dispute over the deposit.)",
+    "excerpt": "Kratzer im Parkett beim Einzug? Foto, Datum, Übergabeprotokoll, beide unterschreiben. So gibt es keinen Streit um die Kaution. (Scratches in the parquet on move-in? Photo, date, handover protocol, both sign. No dispute over the deposit.)",
     "author": "@tenancede",
     "date": "2026-11-05",
     "url": "https://x.com/tenancede/status/2118408072565596190",
     "engagement": 0,
     "tags": [
-      "\u00dcbergabeprotokoll",
+      "Übergabeprotokoll",
       "Germany",
       "photos",
       "best practice"
@@ -1489,7 +1658,7 @@
   {
     "id": "2118087656953520326",
     "category": "Complaint",
-    "title": "Host\u2019s Airbnb damage claim closed five times without an update",
+    "title": "Host’s Airbnb damage claim closed five times without an update",
     "excerpt": "A host says a guest badly damaged their condo, but after five attempts to get an update on the Airbnb damage claim, support promised to route them and then closed the conversation each time.",
     "author": "@man_in_red1887",
     "date": "2026-11-04",
@@ -1522,7 +1691,7 @@
   {
     "id": "2117911932359582151",
     "category": "Insight",
-    "title": "Deposit scheme read the landlord\u2019s inventory, not the tenant\u2019s photos",
+    "title": "Deposit scheme read the landlord’s inventory, not the tenant’s photos",
     "excerpt": "A tenant says their flat deposit disappeared after the landlord's inventory claimed a scratched floor, their move-in photos showed otherwise, and the deposit scheme only read the landlord's document.",
     "author": "@Rosie_luv7",
     "date": "2026-11-04",
@@ -1568,6 +1737,24 @@
       "evidence"
     ],
     "source": "X"
+  },
+  {
+    "id": "reddit-1xmf8k2",
+    "source": "Reddit",
+    "category": "Best Practice",
+    "title": "10-minute move-in photo habit protects security deposit",
+    "excerpt": "A renter outlines photographing every room, walls, floors, appliances and stains on move-in day with visible dates, writing condition notes, emailing the report to the landlord in the first week, and repeating the same angles at move-out. The poster also mentions building a free iPhone app called Deposit Shield that generates side-by-side PDFs.",
+    "author": "u/unknown",
+    "date": "2026-11-02",
+    "url": "https://www.reddit.com/r/renting/comments/1xmf8k2/the_10minute_movein_habit_that_protects_your/",
+    "engagement": 10,
+    "tags": [
+      "move-in",
+      "photos",
+      "deposit",
+      "evidence",
+      "app idea"
+    ]
   },
   {
     "id": "2115606542183801121",
@@ -1656,8 +1843,8 @@
   {
     "id": "2114336242905006554",
     "category": "Complaint",
-    "title": "Host demanded over \u20ac500 for existing damage on a \u20ac140 Airbnb stay",
-    "excerpt": "A guest describes their last Airbnb stay as a shakedown after the host accused them of causing existing damage and demanded more than \u20ac500 in extra expenses on a \u20ac140 booking.",
+    "title": "Host demanded over €500 for existing damage on a €140 Airbnb stay",
+    "excerpt": "A guest describes their last Airbnb stay as a shakedown after the host accused them of causing existing damage and demanded more than €500 in extra expenses on a €140 booking.",
     "author": "@kevplaysbass",
     "date": "2026-10-25",
     "url": "https://x.com/kevplaysbass/status/2114336242905006554",
@@ -1705,7 +1892,7 @@
   {
     "id": "2113876427246543129",
     "category": "Complaint",
-    "title": "Airbnb sided with host despite guest\u2019s entry walkthrough video",
+    "title": "Airbnb sided with host despite guest’s entry walkthrough video",
     "excerpt": "A guest who videos every first walkthrough says an Airbnb host still blamed them for pre-existing damage captured in that entry video, Airbnb sided with the host, and they used a chargeback and never booked again.",
     "author": "@DaStraatosphere",
     "date": "2026-10-24",
@@ -1874,8 +2061,8 @@
   {
     "id": "2110250366281621594",
     "category": "Complaint",
-    "title": "Bengaluru tenant says \u20b940,000 deposit was withheld despite a replacement tenant",
-    "excerpt": "A Bengaluru tenant publicly asks for help recovering a \u20b940,000 security deposit withheld by a former landlord in Electronic City even after a replacement tenant was arranged.",
+    "title": "Bengaluru tenant says ₹40,000 deposit was withheld despite a replacement tenant",
+    "excerpt": "A Bengaluru tenant publicly asks for help recovering a ₹40,000 security deposit withheld by a former landlord in Electronic City even after a replacement tenant was arranged.",
     "author": "@arko3575",
     "date": "2026-10-14",
     "url": "https://x.com/arko3575/status/2110250366281621594",
@@ -1890,7 +2077,7 @@
     "id": "7",
     "category": "Insight",
     "title": "No proper handover after lease end led to absurd later demands",
-    "excerpt": "After ending the lease, no Wohnungs\u00fcbergabe or protocol happened. Weeks later the landlord demanded painting all walls neutral, removing a half-wall that was never built by the tenant, etc., and tried to use the deposit. Communication had previously confirmed clean handover of responsibility to new tenants.",
+    "excerpt": "After ending the lease, no Wohnungsübergabe or protocol happened. Weeks later the landlord demanded painting all walls neutral, removing a half-wall that was never built by the tenant, etc., and tried to use the deposit. Communication had previously confirmed clean handover of responsibility to new tenants.",
     "author": "@behindsyntax",
     "date": "2026-09-24",
     "url": "https://x.com/behindsyntax/status/2103035028976357673",
@@ -1902,6 +2089,24 @@
       "dispute"
     ],
     "source": "X"
+  },
+  {
+    "id": "reddit-1w8lx20",
+    "source": "Reddit",
+    "category": "Best Practice",
+    "title": "Email timestamped move-out photos and videos to yourself",
+    "excerpt": "Advice to photograph and video every room, including inside cabinets and closets, before moving out of a rental, then email the files to yourself so the message provides an external timestamp that is harder to dispute than phone metadata alone.",
+    "author": "u/unknown",
+    "date": "2026-09-06",
+    "url": "https://www.reddit.com/r/Tenant/comments/1w8lx20/lpt_before_you_move_out_of_a_rental_take/",
+    "engagement": 20,
+    "tags": [
+      "move-out",
+      "photos",
+      "video",
+      "evidence",
+      "timestamp"
+    ]
   },
   {
     "id": "3",
@@ -1924,7 +2129,7 @@
     "id": "11",
     "category": "Best Practice",
     "title": "Always take full video walkthrough and email it to yourself before handing keys",
-    "excerpt": "When someone says \u201cTake pictures when you move out,\u201d reply \u201cTake video.\u201d Show every wall, every cabinet, every appliance. Record the date and time. Email the footage to yourself before handing over the keys. Memory is an argument. Documentation is evidence.",
+    "excerpt": "When someone says “Take pictures when you move out,” reply “Take video.” Show every wall, every cabinet, every appliance. Record the date and time. Email the footage to yourself before handing over the keys. Memory is an argument. Documentation is evidence.",
     "author": "@blairvic02",
     "date": "2026-08-21",
     "url": "https://x.com/blairvic02/status/2090742348988748109",
@@ -1953,6 +2158,42 @@
       "guest protection"
     ],
     "source": "X"
+  },
+  {
+    "id": "linkedin-quickletni",
+    "source": "LinkedIn",
+    "category": "Best Practice",
+    "title": "Clear dated inventory at check-in protects against deposit disputes",
+    "excerpt": "A Northern Ireland property management firm stresses that every tenancy should begin with a detailed inventory supported by dated photographs. Without an agreed baseline, cleaning standards, damage and missing items become subjective at check-out and harder to justify to deposit schemes.",
+    "author": "Quicklet Property Management",
+    "date": "2026-02-17",
+    "url": "https://www.linkedin.com/posts/quickletni_nilandlords-propertymanagementni-lettingsni-activity-7429571525596532736-iRhg",
+    "engagement": 0,
+    "tags": [
+      "inventory",
+      "check-in",
+      "deposit",
+      "photos",
+      "uk"
+    ]
+  },
+  {
+    "id": "linkedin-albany",
+    "source": "LinkedIn",
+    "category": "Insight",
+    "title": "Most Scottish deposit disputes are decided by the check-in inventory",
+    "excerpt": "An Edinburgh letting firm notes that deposit disputes are usually won or lost by the quality of the check-in record: clear condition descriptions, detailed dated photographs, and the same standard applied at check-out. Without those elements, wear-and-tear and missing-item arguments become opinion rather than evidence.",
+    "author": "Albany Lettings",
+    "date": "2026-02-17",
+    "url": "https://www.linkedin.com/posts/albany-lettings-edinburgh_edinburghlandlords-propertymanagementscotland-activity-7429571693494349825-9Qvl",
+    "engagement": 0,
+    "tags": [
+      "inventory",
+      "deposit",
+      "scotland",
+      "evidence",
+      "check-in"
+    ]
   },
   {
     "id": "li-getitcleaned-checkout",
@@ -1988,6 +2229,42 @@
       "california",
       "photos",
       "itemized deductions"
+    ]
+  },
+  {
+    "id": "reddit-1nkneu3",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Checkout inventory done after new tenants had already moved in",
+    "excerpt": "A UK tenant reports that the estate agent conducted the checkout inventory several hours after the next tenants had already moved into the property, so the report shows the new occupants' belongings. Advisers recommend disputing any deductions via the deposit scheme because it is impossible to attribute damage.",
+    "author": "u/Mammoth_Internal_159",
+    "date": "2025-09-19",
+    "url": "https://www.reddit.com/r/TenantsInTheUK/comments/1nkneu3/inventory_check_out_done_after_new_tenants_had",
+    "engagement": 15,
+    "tags": [
+      "inventory",
+      "checkout",
+      "deposit",
+      "uk",
+      "dispute"
+    ]
+  },
+  {
+    "id": "linkedin-sears",
+    "source": "LinkedIn",
+    "category": "Best Practice",
+    "title": "Use DocuSign with comment boxes for remote inventory sign-off",
+    "excerpt": "A property services firm describes sending every inventory via DocuSign so tenants and landlords can review and add comments before signing, even when keys are collected remotely. The comment fields catch disagreements early and create a locked record that holds up in later deposit disputes.",
+    "author": "Steven Sears",
+    "date": "2025-08-19",
+    "url": "https://www.linkedin.com/posts/steven-sears-037759_propertymanagement-tenancytips-inventorymatters-activity-7363527041930960897-GXUs",
+    "engagement": 0,
+    "tags": [
+      "inventory",
+      "docusign",
+      "check-in",
+      "remote handover",
+      "best practice"
     ]
   },
   {
@@ -2148,150 +2425,6 @@
       "deposit",
       "uk",
       "move-in"
-    ]
-  },
-  {
-    "id": "reddit-1xmf8k2",
-    "source": "Reddit",
-    "category": "Best Practice",
-    "title": "10-minute move-in photo habit protects security deposit",
-    "excerpt": "A renter outlines photographing every room, walls, floors, appliances and stains on move-in day with visible dates, writing condition notes, emailing the report to the landlord in the first week, and repeating the same angles at move-out. The poster also mentions building a free iPhone app called Deposit Shield that generates side-by-side PDFs.",
-    "author": "u/unknown",
-    "date": "2026-11-02",
-    "url": "https://www.reddit.com/r/renting/comments/1xmf8k2/the_10minute_movein_habit_that_protects_your/",
-    "engagement": 10,
-    "tags": [
-      "move-in",
-      "photos",
-      "deposit",
-      "evidence",
-      "app idea"
-    ]
-  },
-  {
-    "id": "reddit-1xs69uw",
-    "source": "Reddit",
-    "category": "Complaint",
-    "title": "Airbnb host claims $590 for faulty towel bars after 5-star review",
-    "excerpt": "A guest reported two loose towel bars that detached during a one-night stay; the host reassured them everything was fine and both sides left 5-star reviews. Two weeks later the host filed a $590 claim. Airbnb denied the guest's appeal citing checkout photos, and the guest is now disputing the charge with their bank.",
-    "author": "u/unknown",
-    "date": "2026-11-10",
-    "url": "https://www.reddit.com/r/FuckAirbnb/comments/1xs69uw/host_reassured_me_everything_is_fine_gave_me_5/",
-    "engagement": 50,
-    "tags": [
-      "airbnb",
-      "damage claim",
-      "guest",
-      "dispute",
-      "checkout"
-    ]
-  },
-  {
-    "id": "reddit-1xxl0aa",
-    "source": "Reddit",
-    "category": "Insight",
-    "title": "STR owners ask what still protects the house after Airbnb rule change",
-    "excerpt": "A short-term rental operator says five owners asked the same question after the Nov 20 Airbnb house-rule changes: what protects the property now that AirCover does less than many assume. The operator keeps damage waivers, rental agreements, ID checks on longer stays, and deposits in place.",
-    "author": "u/unknown",
-    "date": "2026-11-16",
-    "url": "https://www.reddit.com/r/ShortTermRentals/comments/1xxl0aa/5_owners_one_question_after_nov_20_what_protects/",
-    "engagement": 5,
-    "tags": [
-      "airbnb",
-      "short-term rental",
-      "damage waiver",
-      "host",
-      "policy"
-    ]
-  },
-  {
-    "id": "reddit-1nkneu3",
-    "source": "Reddit",
-    "category": "Complaint",
-    "title": "Checkout inventory done after new tenants had already moved in",
-    "excerpt": "A UK tenant reports that the estate agent conducted the checkout inventory several hours after the next tenants had already moved into the property, so the report shows the new occupants' belongings. Advisers recommend disputing any deductions via the deposit scheme because it is impossible to attribute damage.",
-    "author": "u/Mammoth_Internal_159",
-    "date": "2025-09-19",
-    "url": "https://www.reddit.com/r/TenantsInTheUK/comments/1nkneu3/inventory_check_out_done_after_new_tenants_had",
-    "engagement": 15,
-    "tags": [
-      "inventory",
-      "checkout",
-      "deposit",
-      "uk",
-      "dispute"
-    ]
-  },
-  {
-    "id": "reddit-1w8lx20",
-    "source": "Reddit",
-    "category": "Best Practice",
-    "title": "Email timestamped move-out photos and videos to yourself",
-    "excerpt": "Advice to photograph and video every room, including inside cabinets and closets, before moving out of a rental, then email the files to yourself so the message provides an external timestamp that is harder to dispute than phone metadata alone.",
-    "author": "u/unknown",
-    "date": "2026-09-06",
-    "url": "https://www.reddit.com/r/Tenant/comments/1w8lx20/lpt_before_you_move_out_of_a_rental_take/",
-    "engagement": 20,
-    "tags": [
-      "move-out",
-      "photos",
-      "video",
-      "evidence",
-      "timestamp"
-    ]
-  },
-  {
-    "id": "linkedin-quickletni",
-    "source": "LinkedIn",
-    "category": "Best Practice",
-    "title": "Clear dated inventory at check-in protects against deposit disputes",
-    "excerpt": "A Northern Ireland property management firm stresses that every tenancy should begin with a detailed inventory supported by dated photographs. Without an agreed baseline, cleaning standards, damage and missing items become subjective at check-out and harder to justify to deposit schemes.",
-    "author": "Quicklet Property Management",
-    "date": "2026-02-17",
-    "url": "https://www.linkedin.com/posts/quickletni_nilandlords-propertymanagementni-lettingsni-activity-7429571525596532736-iRhg",
-    "engagement": 0,
-    "tags": [
-      "inventory",
-      "check-in",
-      "deposit",
-      "photos",
-      "uk"
-    ]
-  },
-  {
-    "id": "linkedin-albany",
-    "source": "LinkedIn",
-    "category": "Insight",
-    "title": "Most Scottish deposit disputes are decided by the check-in inventory",
-    "excerpt": "An Edinburgh letting firm notes that deposit disputes are usually won or lost by the quality of the check-in record: clear condition descriptions, detailed dated photographs, and the same standard applied at check-out. Without those elements, wear-and-tear and missing-item arguments become opinion rather than evidence.",
-    "author": "Albany Lettings",
-    "date": "2026-02-17",
-    "url": "https://www.linkedin.com/posts/albany-lettings-edinburgh_edinburghlandlords-propertymanagementscotland-activity-7429571693494349825-9Qvl",
-    "engagement": 0,
-    "tags": [
-      "inventory",
-      "deposit",
-      "scotland",
-      "evidence",
-      "check-in"
-    ]
-  },
-  {
-    "id": "linkedin-sears",
-    "source": "LinkedIn",
-    "category": "Best Practice",
-    "title": "Use DocuSign with comment boxes for remote inventory sign-off",
-    "excerpt": "A property services firm describes sending every inventory via DocuSign so tenants and landlords can review and add comments before signing, even when keys are collected remotely. The comment fields catch disagreements early and create a locked record that holds up in later deposit disputes.",
-    "author": "Steven Sears",
-    "date": "2025-08-19",
-    "url": "https://www.linkedin.com/posts/steven-sears-037759_propertymanagement-tenancytips-inventorymatters-activity-7363527041930960897-GXUs",
-    "engagement": 0,
-    "tags": [
-      "inventory",
-      "docusign",
-      "check-in",
-      "remote handover",
-      "best practice"
     ]
   }
 ]
