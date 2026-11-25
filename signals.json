@@ -1,5 +1,145 @@
 [
   {
+    "id": "2125289002919919997",
+    "category": "Insight",
+    "title": "Unsigned furniture inventory sinks landlord's claim in court",
+    "excerpt": "A Jerusalem landlord's lease copy listed six chairs but the tenants' copy didn't, and nobody had signed the list, so the judge dismissed the furniture claim. Advice: photograph what stays and sign two copies of the same inventory.",
+    "author": "@chaimsem",
+    "date": "2026-11-24",
+    "url": "https://x.com/chaimsem/status/2125289002919919997",
+    "engagement": 0,
+    "tags": [
+      "inventory",
+      "furnished",
+      "evidence",
+      "legal",
+      "signatures"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125260319308083436",
+    "category": "Complaint",
+    "title": "Landlords treat deposits as free insurance; ask for an inspection report first",
+    "excerpt": "Tenant-side reply: don't pay a cent of a damage charge until you see an actual inspection report. A shattered window doesn't automatically mean the tenant broke it; some landlords use the deposit as insurance for anything that goes wrong.",
+    "author": "@JuliaLaurerahj",
+    "date": "2026-11-24",
+    "url": "https://x.com/JuliaLaurerahj/status/2125260319308083436",
+    "engagement": 175,
+    "tags": [
+      "deposit",
+      "damage",
+      "inspection report",
+      "tenant"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125288087379214634",
+    "category": "Best Practice",
+    "title": "Offer tenants a pre-move-out inspection before deducting",
+    "excerpt": "A California landlord attorney recounts a landlord planning to walk the unit after the tenant left and send deductions, without knowing that Civil Code 1950.5(f) requires written notice of the tenant's right to request an inspection before move-out.",
+    "author": "@DavidPiotrowski",
+    "date": "2026-11-24",
+    "url": "https://x.com/DavidPiotrowski/status/2125288087379214634",
+    "engagement": 16,
+    "tags": [
+      "move-out",
+      "inspection",
+      "deposit",
+      "California",
+      "compliance"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125289587064910025",
+    "category": "Best Practice",
+    "title": "Log in-lease repairs at move-out so old damage isn't billed as new",
+    "excerpt": "At move-out, list the repairs the tenant reported during the lease and how each was fixed; otherwise an old water stain can get counted as new damage.",
+    "author": "@RentalThread",
+    "date": "2026-11-24",
+    "url": "https://x.com/RentalThread/status/2125289587064910025",
+    "engagement": 0,
+    "tags": [
+      "move-out",
+      "repairs",
+      "documentation",
+      "pre-existing damage"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125132442835009603",
+    "category": "Complaint",
+    "title": "Host says Airbnb closed a €1,600 guest claim in 5 minutes without proof",
+    "excerpt": "A Superhost in Bar, Montenegro says a guest's \"dog poop\" complaint cost them €1,600, with no proof requested and the case closed in five minutes without investigation.",
+    "author": "@Vikgu6",
+    "date": "2026-11-24",
+    "url": "https://x.com/Vikgu6/status/2125132442835009603",
+    "engagement": 0,
+    "tags": [
+      "Airbnb",
+      "dispute",
+      "evidence",
+      "host"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125141901150134544",
+    "category": "Insight",
+    "title": "Top deposit complaint: deductions for wear and tear or pre-existing damage",
+    "excerpt": "A Dubai building-review account says residents' most common deposit complaint is deductions for wear and tear or damage that was already there; deposit fights are won or lost at move-in, so photograph every mark at handover and get it in writing.",
+    "author": "@HomeTruthsio",
+    "date": "2026-11-24",
+    "url": "https://x.com/HomeTruthsio/status/2125141901150134544",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "wear and tear",
+      "handover",
+      "move-in photos",
+      "Dubai"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125191437088424246",
+    "category": "Complaint",
+    "title": "'Furnished' label with one chair used to justify a bigger deposit",
+    "excerpt": "A renter says a landlord called a place with a single chair and a washing machine \"furnished\" so he could legally require a two-month deposit and a shorter one-year lease.",
+    "author": "@jla72876",
+    "date": "2026-11-24",
+    "url": "https://x.com/jla72876/status/2125191437088424246",
+    "engagement": 0,
+    "tags": [
+      "furnished",
+      "deposit",
+      "lease terms",
+      "tenant"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125235698445721737",
+    "category": "Insight",
+    "title": "Revised property condition report adds a joint landlord-tenant checklist",
+    "excerpt": "A local news report says the new property condition report includes a joint condition checklist on which both landlord and tenant mark issues and concerns.",
+    "author": "@ButlerEagle",
+    "date": "2026-11-24",
+    "url": "https://x.com/ButlerEagle/status/2125235698445721737",
+    "engagement": 0,
+    "tags": [
+      "condition report",
+      "checklist",
+      "move-in",
+      "landlord",
+      "tenant"
+    ],
+    "source": "X"
+  },
+  {
     "id": "2124944521972548087",
     "category": "Complaint",
     "title": "Guest leaves hot water running; flooded rental and resolution request denied",
@@ -81,6 +221,24 @@
       "lease terms",
       "turnover"
     ]
+  },
+  {
+    "id": "2124791261324533849",
+    "category": "Complaint",
+    "title": "Airbnb paid host's theft claim but kept the thief's retaliatory review",
+    "excerpt": "A host says a guest stole personal property and was caught on CCTV; Airbnb verified the theft and reimbursed the claim, yet refused to remove the guest's retaliatory review.",
+    "author": "@natella111",
+    "date": "2026-11-23",
+    "url": "https://x.com/natella111/status/2124791261324533849",
+    "engagement": 0,
+    "tags": [
+      "Airbnb",
+      "theft",
+      "missing items",
+      "CCTV",
+      "reviews"
+    ],
+    "source": "X"
   },
   {
     "id": "2124616002432573714",
