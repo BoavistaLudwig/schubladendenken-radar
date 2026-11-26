@@ -1,5 +1,132 @@
 [
   {
+    "id": "2125825390471975140",
+    "category": "Complaint",
+    "title": "$600 'carpet shampoo' charged for a hardwood-floored apartment",
+    "excerpt": "A tenant who moved out spotless had $1,800 kept for 'deep cleaning'. They had 212 timestamped move-out photos and simply asked for an itemized list, which included $600 for carpet shampoo in an apartment with hardwood floors.",
+    "author": "@Vevilobts",
+    "date": "2026-11-26",
+    "url": "https://x.com/Vevilobts/status/2125825390471975140",
+    "engagement": 12,
+    "tags": [
+      "deposit",
+      "cleaning",
+      "itemization",
+      "photos",
+      "move-out"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125848277199556819",
+    "category": "Complaint",
+    "title": "Landlord tries to keep £1,600 for repainting after a 3-year tenancy",
+    "excerpt": "A UK tenant who left the flat cleaner than at move-in was told £1,600 of the deposit would cover repainting. Asked for an itemised breakdown and invoices, the landlord could supply neither, only photos of a few faded patches and a small mark.",
+    "author": "@WrittenBy_SS",
+    "date": "2026-11-26",
+    "url": "https://x.com/WrittenBy_SS/status/2125848277199556819",
+    "engagement": 24,
+    "tags": [
+      "deposit",
+      "wear and tear",
+      "repainting",
+      "UK",
+      "itemization"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125748914217250845",
+    "category": "Complaint",
+    "title": "Airbnb fights guest refund because there were no photos of the problem",
+    "excerpt": "A guest arrived at a rural Maine Airbnb at 10pm to find teenagers having a sleepover inside. Airbnb relocated them but said the host broke no policy since there were no photos, and is contesting the refund.",
+    "author": "@hostcheck",
+    "date": "2026-11-26",
+    "url": "https://x.com/hostcheck/status/2125748914217250845",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "guest",
+      "evidence",
+      "photos",
+      "refund",
+      "check-in"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125561171042283710",
+    "category": "Best Practice",
+    "title": "Email the landlord a numbered defect list with photos at move-in",
+    "excerpt": "A tenant sent the landlord 23 photos and a numbered list (cracked tile, stained carpet, wall scuffs) and got a written 'will keep on file' reply. That dated thread became the evidence when move-out charges for the same issues arrived.",
+    "author": "@essa_muse",
+    "date": "2026-11-25",
+    "url": "https://x.com/essa_muse/status/2125561171042283710",
+    "engagement": 14,
+    "tags": [
+      "move-in",
+      "evidence",
+      "photos",
+      "documentation",
+      "deposit"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125562628252537056",
+    "category": "Insight",
+    "title": "Most Vrbo hosts never set their damage protection option",
+    "excerpt": "Vrbo lets hosts choose per listing: a card on file charged only on a claim (up to $5k), a refundable upfront deposit, or guest-bought damage protection ($59/$89/$119 for $1.5k/$3k/$5k). Damage must be reported within 14 days of checkout.",
+    "author": "@tideandmind",
+    "date": "2026-11-25",
+    "url": "https://x.com/tideandmind/status/2125562628252537056",
+    "engagement": 0,
+    "tags": [
+      "vrbo",
+      "host",
+      "damage",
+      "deposit",
+      "claims deadline"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125607636380832159",
+    "category": "Best Practice",
+    "title": "Share move-in photos in week one and get the tenant's written reply",
+    "excerpt": "Owners can send tenants the move-in photos in the first week and ask them to reply in writing with anything missing, so both sides start from one agreed condition record.",
+    "author": "@LandlordAIDesk",
+    "date": "2026-11-25",
+    "url": "https://x.com/LandlordAIDesk/status/2125607636380832159",
+    "engagement": 0,
+    "tags": [
+      "move-in",
+      "photos",
+      "landlord",
+      "agreed record",
+      "documentation"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2125613174078472348",
+    "category": "Insight",
+    "title": "Tenancy board's advice when a landlord threatens a $180 deposit deduction",
+    "excerpt": "After a landlord threatened to deduct $180 from a damage deposit, a Manitoba tenant contacted the Residential Tenancies Branch, which advised keeping the lease, the invoice and all messages.",
+    "author": "@BIGWAVESX",
+    "date": "2026-11-25",
+    "url": "https://x.com/BIGWAVESX/status/2125613174078472348",
+    "engagement": 4,
+    "tags": [
+      "deposit",
+      "dispute",
+      "Canada",
+      "evidence",
+      "tenancy board"
+    ],
+    "source": "X"
+  },
+  {
     "id": "2125289002919919997",
     "category": "Insight",
     "title": "Unsigned furniture inventory sinks landlord's claim in court",
