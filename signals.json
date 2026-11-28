@@ -1,5 +1,59 @@
 [
   {
+    "id": "2126371952826757251",
+    "source": "X",
+    "category": "Complaint",
+    "title": "Deposit withheld over fixtures that were there at move-in",
+    "excerpt": "A tenant says her landlord kept her deposit because she left a bathroom shelf, claiming wallpaper damage. The landlord had done the same to the previous tenant over blinds he left, and those blinds were still up when she moved in. Without a move-in record, she had no way to show which items came before her.",
+    "author": "@AnnAhmerican",
+    "date": "2026-11-27",
+    "url": "https://x.com/AnnAhmerican/status/2126371952826757251",
+    "engagement": 311,
+    "tags": [
+      "deposit",
+      "fixtures left behind",
+      "pre-existing condition",
+      "move-in evidence",
+      "tenant"
+    ]
+  },
+  {
+    "id": "2126416668830188032",
+    "source": "X",
+    "category": "Insight",
+    "title": "Old emails with the landlord won a fixtures dispute after the owner changed",
+    "excerpt": "After the original landlord died, his widow argued the tenant had no right to keep a new stove. The tenant went to small claims and won, because she still had her email conversation with the original landlord about it. A written record of agreements outlasted the change of owner.",
+    "author": "@BunnyWatsonLib",
+    "date": "2026-11-27",
+    "url": "https://x.com/BunnyWatsonLib/status/2126416668830188032",
+    "engagement": 6,
+    "tags": [
+      "small claims",
+      "written agreements",
+      "appliances",
+      "ownership change",
+      "evidence"
+    ]
+  },
+  {
+    "id": "2126368051595788779",
+    "source": "X",
+    "category": "Complaint",
+    "title": "Guests left an uninhabitable Airbnb and waited hours for support",
+    "excerpt": "A family checked out of an Airbnb at 8 AM because of sewage fumes from the AC and breathing problems. They say phone reps hung up on them and they waited more than six hours in their car for an AirCover specialist. It shows how much check-in condition evidence and fast escalation matter to guests.",
+    "author": "@EthanAxten",
+    "date": "2026-11-27",
+    "url": "https://x.com/EthanAxten/status/2126368051595788779",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "guest",
+      "check-in condition",
+      "aircover",
+      "support"
+    ]
+  },
+  {
     "id": "2125825390471975140",
     "category": "Complaint",
     "title": "$600 'carpet shampoo' charged for a hardwood-floored apartment",
@@ -69,7 +123,8 @@
       "move-in evidence",
       "video walkthrough",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2125978720921850067",
@@ -86,7 +141,8 @@
       "wall holes",
       "notice deadline",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2125858129632239960",
@@ -102,7 +158,8 @@
       "deduction",
       "refund",
       "property manager"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2126018655985303640",
@@ -118,7 +175,8 @@
       "wear and tear",
       "video evidence",
       "deposit"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2126080170423705778",
@@ -135,7 +193,8 @@
       "handover",
       "chat records",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2125970987644776602",
@@ -152,6 +211,43 @@
       "photos",
       "video",
       "airbnb"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "2126015968011034867",
+    "source": "X",
+    "category": "Best Practice",
+    "title": "Keep the original lease as proof the deposit was paid",
+    "excerpt": "A tenant threw away the first lease after a renewal, then lost a small-claims case at move-out because she could no longer prove she had paid the first and last month and the deposit. The lesson: keep every version of the lease and every deposit receipt until the deposit comes back.",
+    "author": "@skirri",
+    "date": "2026-11-26",
+    "url": "https://x.com/skirri/status/2126015968011034867",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "documentation",
+      "lease renewal",
+      "small claims",
+      "proof of payment"
+    ]
+  },
+  {
+    "id": "2126080288157581335",
+    "source": "X",
+    "category": "Best Practice",
+    "title": "A certified demand letter got the deposit back on day 29",
+    "excerpt": "Facing a landlord who wanted to keep the deposit, a tenant sent a certified letter with return receipt, gave 30 days, and said he would go to small claims. The deposit arrived on day 29.",
+    "author": "@schweeb911",
+    "date": "2026-11-26",
+    "url": "https://x.com/schweeb911/status/2126080288157581335",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "demand letter",
+      "small claims",
+      "dispute resolution",
+      "tenant"
     ]
   },
   {
@@ -240,7 +336,8 @@
       "move-in documentation",
       "deposit dispute",
       "tenant"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2125516613759959459",
@@ -256,6 +353,41 @@
       "inspection reports",
       "painting charges",
       "platform support"
+    ],
+    "source": "X"
+  },
+  {
+    "id": "1y5mcvz",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Landlord threatening collections over $400+ in damages without providing documentation before lease ends Nov 30",
+    "excerpt": "Canadian tenants who cleaned and repaired minor issues before moving out received a demand for over $400 in undocumented damages, with threats of collections and no itemized list or photos provided.",
+    "author": "unknown",
+    "date": "2026-11-25",
+    "url": "https://www.reddit.com/r/legaladvicecanada/comments/1y5mcvz/landlord_threatening_collections_over_400_in/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "damage",
+      "move-out",
+      "documentation",
+      "dispute"
+    ]
+  },
+  {
+    "id": "1y4zmqy",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "People are showing up at my rental because someone is collecting deposits for it?",
+    "excerpt": "A landlord reports strangers arriving to view a property that is not actively listed, having paid holding deposits to a scammer who copied photos and details from a previous listing.",
+    "author": "unknown",
+    "date": "2026-11-25",
+    "url": "https://www.reddit.com/r/LeaseLords/comments/1y4zmqy/people_are_showing_up_at_my_rental_because/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "scam",
+      "listing"
     ]
   },
   {
@@ -399,6 +531,41 @@
     "source": "X"
   },
   {
+    "id": "1y45knr",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Apartment complex trying to charge us $600 deposit when we signed a lease stating $0 plus our lease ends in two months",
+    "excerpt": "Tennessee tenants with a signed lease specifying $0 deposit and no pet fees face demands for a $600 deposit and monthly pet fee after a maintenance visit noted pet-related mess and carpet damage.",
+    "author": "unknown",
+    "date": "2026-11-24",
+    "url": "https://www.reddit.com/r/legal/comments/1y45knr/apartment_complex_trying_to_charge_us_600_deposit/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "pet-damage",
+      "dispute",
+      "lease"
+    ]
+  },
+  {
+    "id": "1y4fga9",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "How are you handling guest ID checks and deposits without killing conversion?",
+    "excerpt": "Short-term rental host seeks effective stacks for ID verification and automated damage deposit holds that maintain booking conversion across multiple properties, discussing tools like Autohost and newer options.",
+    "author": "unknown",
+    "date": "2026-11-24",
+    "url": "https://www.reddit.com/r/ShortTermRentals/comments/1y4fga9/how_are_you_handling_guest_id_checks_and_deposits/",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "id-verification",
+      "short-term",
+      "furnished",
+      "evidence"
+    ]
+  },
+  {
     "id": "2124944521972548087",
     "category": "Complaint",
     "title": "Guest leaves hot water running; flooded rental and resolution request denied",
@@ -413,7 +580,8 @@
       "resolution center",
       "evidence",
       "checkout"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124925700125987255",
@@ -430,7 +598,8 @@
       "photos",
       "documentation",
       "move-out"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124828764093694044",
@@ -446,7 +615,8 @@
       "tenancy deposit scheme",
       "deposits",
       "policy"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124876311697010952",
@@ -462,7 +632,8 @@
       "end of tenancy",
       "deposit deductions",
       "move-out"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124961346739433719",
@@ -479,7 +650,8 @@
       "photos",
       "lease terms",
       "turnover"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124791261324533849",
@@ -514,7 +686,8 @@
       "deposit",
       "small claims",
       "walkthrough"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124519436308627956",
@@ -531,7 +704,8 @@
       "pre-existing damage",
       "carpet",
       "move-out"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124462153289592930",
@@ -548,7 +722,8 @@
       "repeat claims",
       "guest",
       "platform support"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124649913485336745",
@@ -565,7 +740,8 @@
       "damage claim",
       "evidence",
       "escalation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124548867534282948",
@@ -581,7 +757,8 @@
       "deductions",
       "move-out",
       "cleaning"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124608872287711380",
@@ -597,7 +774,8 @@
       "deposit law",
       "washington",
       "documentation"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124529675418693796",
@@ -613,7 +791,8 @@
       "deductions",
       "move-out",
       "tenant rights"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124140234095071333",
@@ -630,7 +809,8 @@
       "fake evidence",
       "guest",
       "dispute"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2124081236339835152",
@@ -647,7 +827,8 @@
       "painting",
       "inspection reports",
       "india"
-    ]
+    ],
+    "source": "X"
   },
   {
     "id": "2123616747991532023",
