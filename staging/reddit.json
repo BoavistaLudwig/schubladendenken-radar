@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "1y45knr",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Apartment complex trying to charge us $600 deposit when we signed a lease stating $0 plus our lease ends in two months",
+    "excerpt": "Tennessee tenants with a signed lease specifying $0 deposit and no pet fees face demands for a $600 deposit and monthly pet fee after a maintenance visit noted pet-related mess and carpet damage.",
+    "author": "unknown",
+    "date": "2026-11-24",
+    "url": "https://www.reddit.com/r/legal/comments/1y45knr/apartment_complex_trying_to_charge_us_600_deposit/",
+    "engagement": 0,
+    "tags": ["deposit", "pet-damage", "dispute", "lease"]
+  },
+  {
+    "id": "1y5mcvz",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "Landlord threatening collections over $400+ in damages without providing documentation before lease ends Nov 30",
+    "excerpt": "Canadian tenants who cleaned and repaired minor issues before moving out received a demand for over $400 in undocumented damages, with threats of collections and no itemized list or photos provided.",
+    "author": "unknown",
+    "date": "2026-11-25",
+    "url": "https://www.reddit.com/r/legaladvicecanada/comments/1y5mcvz/landlord_threatening_collections_over_400_in/",
+    "engagement": 0,
+    "tags": ["deposit", "damage", "move-out", "documentation", "dispute"]
+  },
+  {
+    "id": "1y4zmqy",
+    "source": "Reddit",
+    "category": "Complaint",
+    "title": "People are showing up at my rental because someone is collecting deposits for it?",
+    "excerpt": "A landlord reports strangers arriving to view a property that is not actively listed, having paid holding deposits to a scammer who copied photos and details from a previous listing.",
+    "author": "unknown",
+    "date": "2026-11-25",
+    "url": "https://www.reddit.com/r/LeaseLords/comments/1y4zmqy/people_are_showing_up_at_my_rental_because/",
+    "engagement": 0,
+    "tags": ["deposit", "scam", "listing"]
+  },
+  {
+    "id": "1y4fga9",
+    "source": "Reddit",
+    "category": "Insight",
+    "title": "How are you handling guest ID checks and deposits without killing conversion?",
+    "excerpt": "Short-term rental host seeks effective stacks for ID verification and automated damage deposit holds that maintain booking conversion across multiple properties, discussing tools like Autohost and newer options.",
+    "author": "unknown",
+    "date": "2026-11-24",
+    "url": "https://www.reddit.com/r/ShortTermRentals/comments/1y4fga9/how_are_you_handling_guest_id_checks_and_deposits/",
+    "engagement": 0,
+    "tags": ["deposit", "id-verification", "short-term", "furnished", "evidence"]
+  }
+]
