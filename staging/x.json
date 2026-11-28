@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "id": "2126371952826757251",
+    "source": "X",
+    "category": "Complaint",
+    "title": "Deposit withheld over fixtures that were there at move-in",
+    "excerpt": "A tenant says her landlord kept her deposit because she left a bathroom shelf, claiming wallpaper damage. The landlord had done the same to the previous tenant over blinds he left, and those blinds were still up when she moved in. Without a move-in record, she had no way to show which items came before her.",
+    "author": "@AnnAhmerican",
+    "date": "2026-11-27",
+    "url": "https://x.com/AnnAhmerican/status/2126371952826757251",
+    "engagement": 311,
+    "tags": [
+      "deposit",
+      "fixtures left behind",
+      "pre-existing condition",
+      "move-in evidence",
+      "tenant"
+    ]
+  },
+  {
+    "id": "2126015968011034867",
+    "source": "X",
+    "category": "Best Practice",
+    "title": "Keep the original lease as proof the deposit was paid",
+    "excerpt": "A tenant threw away the first lease after a renewal, then lost a small-claims case at move-out because she could no longer prove she had paid the first and last month and the deposit. The lesson: keep every version of the lease and every deposit receipt until the deposit comes back.",
+    "author": "@skirri",
+    "date": "2026-11-26",
+    "url": "https://x.com/skirri/status/2126015968011034867",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "documentation",
+      "lease renewal",
+      "small claims",
+      "proof of payment"
+    ]
+  },
+  {
+    "id": "2126416668830188032",
+    "source": "X",
+    "category": "Insight",
+    "title": "Old emails with the landlord won a fixtures dispute after the owner changed",
+    "excerpt": "After the original landlord died, his widow argued the tenant had no right to keep a new stove. The tenant went to small claims and won, because she still had her email conversation with the original landlord about it. A written record of agreements outlasted the change of owner.",
+    "author": "@BunnyWatsonLib",
+    "date": "2026-11-27",
+    "url": "https://x.com/BunnyWatsonLib/status/2126416668830188032",
+    "engagement": 6,
+    "tags": [
+      "small claims",
+      "written agreements",
+      "appliances",
+      "ownership change",
+      "evidence"
+    ]
+  },
+  {
+    "id": "2126080288157581335",
+    "source": "X",
+    "category": "Best Practice",
+    "title": "A certified demand letter got the deposit back on day 29",
+    "excerpt": "Facing a landlord who wanted to keep the deposit, a tenant sent a certified letter with return receipt, gave 30 days, and said he would go to small claims. The deposit arrived on day 29.",
+    "author": "@schweeb911",
+    "date": "2026-11-26",
+    "url": "https://x.com/schweeb911/status/2126080288157581335",
+    "engagement": 0,
+    "tags": [
+      "deposit",
+      "demand letter",
+      "small claims",
+      "dispute resolution",
+      "tenant"
+    ]
+  },
+  {
+    "id": "2126368051595788779",
+    "source": "X",
+    "category": "Complaint",
+    "title": "Guests left an uninhabitable Airbnb and waited hours for support",
+    "excerpt": "A family checked out of an Airbnb at 8 AM because of sewage fumes from the AC and breathing problems. They say phone reps hung up on them and they waited more than six hours in their car for an AirCover specialist. It shows how much check-in condition evidence and fast escalation matter to guests.",
+    "author": "@EthanAxten",
+    "date": "2026-11-27",
+    "url": "https://x.com/EthanAxten/status/2126368051595788779",
+    "engagement": 0,
+    "tags": [
+      "airbnb",
+      "guest",
+      "check-in condition",
+      "aircover",
+      "support"
+    ]
+  }
+]
